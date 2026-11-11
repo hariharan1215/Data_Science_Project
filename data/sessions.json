@@ -1,0 +1,1996 @@
+{
+  "3e004cdc-6bc7-4a0e-806a-2d88fba6f551": {
+    "id": "3e004cdc-6bc7-4a0e-806a-2d88fba6f551",
+    "title": "Hello",
+    "created_at": "2026-11-02T06:37:10.069567",
+    "updated_at": "2026-11-02T06:37:10.078051",
+    "messages": [
+      {
+        "id": "071a3744-9432-47cd-a760-646e512ee032",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-02T06:37:10.075972",
+        "citations": []
+      },
+      {
+        "id": "f3081d07-ae2d-4de6-93e5-4a5ed6f46615",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant. 🌟\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-02T06:37:10.078051",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "97cc26e5-4450-41ba-8d28-3d00c843e051": {
+    "id": "97cc26e5-4450-41ba-8d28-3d00c843e051",
+    "title": "Who won the cricket world cup?",
+    "created_at": "2026-11-02T06:37:10.088415",
+    "updated_at": "2026-11-02T06:37:10.098226",
+    "messages": [
+      {
+        "id": "29c1c732-ede2-4fdc-b99e-11c442d7a2b8",
+        "sender": "user",
+        "text": "Who won the cricket world cup?",
+        "timestamp": "2026-11-02T06:37:10.093844",
+        "citations": []
+      },
+      {
+        "id": "7aaa4bd2-41cc-45dc-b962-b2036b251753",
+        "sender": "ai",
+        "text": "⚠️ **Gemini API Key Required**: Please configure your `GEMINI_API_KEY` in the `.env` file to enable AI answers and RAG document analysis.",
+        "timestamp": "2026-11-02T06:37:10.098226",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "d78c8b05-d85c-438d-b20f-9416af8b254b": {
+    "id": "d78c8b05-d85c-438d-b20f-9416af8b254b",
+    "title": "Hello",
+    "created_at": "2026-11-02T06:38:36.577704",
+    "updated_at": "2026-11-02T06:38:36.577704",
+    "messages": [
+      {
+        "id": "b6b52f20-16a8-483a-a061-c081abead0ac",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-02T06:38:36.577704",
+        "citations": []
+      },
+      {
+        "id": "b411a2ec-4105-4860-8bf4-9d940f8f5a40",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant. 🌟\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-02T06:38:36.577704",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "41d68cc5-d2d3-4747-b489-1e4bc180c681": {
+    "id": "41d68cc5-d2d3-4747-b489-1e4bc180c681",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-02T06:38:36.586857",
+    "updated_at": "2026-11-02T06:38:36.586857",
+    "messages": [
+      {
+        "id": "9fe8af2e-0e0d-4d8e-8d72-8ef6ddfcba87",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-02T06:38:36.586857",
+        "citations": []
+      },
+      {
+        "id": "726fdde8-9c19-44ec-90a2-bc1bc0c5ae3e",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-02T06:38:36.586857",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "3363648e-f898-4275-a230-ac3c23afaa9d": {
+    "id": "3363648e-f898-4275-a230-ac3c23afaa9d",
+    "title": "Hello",
+    "created_at": "2026-11-02T06:39:12.315524",
+    "updated_at": "2026-11-02T06:39:12.315524",
+    "messages": [
+      {
+        "id": "973c7b0f-f913-4236-b050-13e159e153ef",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-02T06:39:12.315524",
+        "citations": []
+      },
+      {
+        "id": "668b4557-09e6-44c9-8761-4f9b6d1baef9",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant. 🌟\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-02T06:39:12.315524",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "8dfaaec5-2592-4286-a06c-7784294f42dc": {
+    "id": "8dfaaec5-2592-4286-a06c-7784294f42dc",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-02T06:39:12.326095",
+    "updated_at": "2026-11-02T06:39:12.335418",
+    "messages": [
+      {
+        "id": "e06e4973-1289-45ae-87cf-cd1b63570c08",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-02T06:39:12.331335",
+        "citations": []
+      },
+      {
+        "id": "c5b1020a-bdbf-47ab-8eba-17800eec9d42",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-02T06:39:12.335418",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "78a2d9d5-d0ce-465b-a9e6-446dd5eabee5": {
+    "id": "78a2d9d5-d0ce-465b-a9e6-446dd5eabee5",
+    "title": "Hello",
+    "created_at": "2026-11-02T06:39:47.285524",
+    "updated_at": "2026-11-02T06:39:47.289748",
+    "messages": [
+      {
+        "id": "6d815d34-0ed9-438a-b30b-2fb58dd223a7",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-02T06:39:47.289748",
+        "citations": []
+      },
+      {
+        "id": "8415ba63-9e62-45f4-865a-22030a4c03b7",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant. 🌟\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-02T06:39:47.289748",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "f345a2d0-7878-44d0-a053-6d0cf519932b": {
+    "id": "f345a2d0-7878-44d0-a053-6d0cf519932b",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-02T06:39:47.299807",
+    "updated_at": "2026-11-02T06:39:47.305543",
+    "messages": [
+      {
+        "id": "860f46b7-ba6c-4e08-907c-9f7eb178777f",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-02T06:39:47.304499",
+        "citations": []
+      },
+      {
+        "id": "d5ca3f02-d6af-45e6-94c0-583f2cc4eb1f",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-02T06:39:47.305543",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "5e27f9a0-eb90-4797-b204-910f299916e7": {
+    "id": "5e27f9a0-eb90-4797-b204-910f299916e7",
+    "title": "Hello",
+    "created_at": "2026-11-02T06:40:23.022267",
+    "updated_at": "2026-11-02T06:40:23.027496",
+    "messages": [
+      {
+        "id": "b9b9929a-f51d-4465-93fb-b6d5a775a6f6",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-02T06:40:23.025547",
+        "citations": []
+      },
+      {
+        "id": "b93f7ee8-e16f-4df0-9e0b-04bb15336991",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant. 🌟\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-02T06:40:23.027496",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "9b94cc69-055b-4683-966a-790526c1398b": {
+    "id": "9b94cc69-055b-4683-966a-790526c1398b",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-02T06:40:23.032620",
+    "updated_at": "2026-11-02T06:40:23.035677",
+    "messages": [
+      {
+        "id": "077337e5-caae-4fb0-9ceb-fd8e27b01151",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-02T06:40:23.032620",
+        "citations": []
+      },
+      {
+        "id": "eb09c4d4-2862-4e56-a7be-34a6a0a57e8f",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-02T06:40:23.035677",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "ad6f15ec-3584-44dd-9a42-cf2fd06da6cd": {
+    "id": "ad6f15ec-3584-44dd-9a42-cf2fd06da6cd",
+    "title": "RAG Verification",
+    "created_at": "2026-11-02T06:41:10.615437",
+    "updated_at": "2026-11-02T06:41:10.615437",
+    "messages": [],
+    "uploaded_document": null
+  },
+  "c8b13128-5370-403c-82a7-01d9dd41ddc1": {
+    "id": "c8b13128-5370-403c-82a7-01d9dd41ddc1",
+    "title": "RAG Verification",
+    "created_at": "2026-11-02T06:44:14.075784",
+    "updated_at": "2026-11-02T06:44:14.790861",
+    "messages": [
+      {
+        "id": "6425cc36-c7a6-4378-97ef-d4f9a47432d1",
+        "sender": "ai",
+        "text": "📄 **Document Attached**: `Alex_Software_Engineer_Resume.pdf`\n\n- **Pages Processed**: 1\n- **Knowledge Chunks Indexed**: 3\n\nYou can now ask questions specifically about this document, such as:\n- *'Summarize the key qualifications and technical skills in this document.'*\n- *'What areas of improvement do you suggest for this resume?'*\n- *'Generate 5 interview questions based on my background.'*",
+        "timestamp": "2026-11-02T06:44:14.790861",
+        "citations": []
+      }
+    ],
+    "uploaded_document": "Alex_Software_Engineer_Resume.pdf"
+  },
+  "8440eb0c-e3fd-4d32-9f40-10f822fe68de": {
+    "id": "8440eb0c-e3fd-4d32-9f40-10f822fe68de",
+    "title": "RAG Verification",
+    "created_at": "2026-11-02T06:45:02.347274",
+    "updated_at": "2026-11-02T06:45:03.248281",
+    "messages": [
+      {
+        "id": "9ef37401-ac15-4bc1-8c40-84a000705550",
+        "sender": "ai",
+        "text": "📄 **Document Attached**: `Alex_Software_Engineer_Resume.pdf`\n\n- **Pages Processed**: 1\n- **Knowledge Chunks Indexed**: 3\n\nYou can now ask questions specifically about this document, such as:\n- *'Summarize the key qualifications and technical skills in this document.'*\n- *'What areas of improvement do you suggest for this resume?'*\n- *'Generate 5 interview questions based on my background.'*",
+        "timestamp": "2026-11-02T06:45:03.157896",
+        "citations": []
+      },
+      {
+        "id": "2bd5583c-9c6d-4d6a-9ae8-ece221ee0dca",
+        "sender": "ai",
+        "text": "Detached `Alex_Software_Engineer_Resume.pdf`. Subsequent questions will use general career guidance knowledge.",
+        "timestamp": "2026-11-02T06:45:03.248281",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "a98f5039-0e2c-4f6b-80ae-8761a4b89741": {
+    "id": "a98f5039-0e2c-4f6b-80ae-8761a4b89741",
+    "title": "Hello",
+    "created_at": "2026-11-02T06:47:54.610347",
+    "updated_at": "2026-11-02T06:47:54.618700",
+    "messages": [
+      {
+        "id": "09129269-f67b-454f-85ea-24964979176e",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-02T06:47:54.610347",
+        "citations": []
+      },
+      {
+        "id": "21a5d574-4511-43f1-817a-3d1f0236e653",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant. 🌟\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-02T06:47:54.618700",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "b439b4a8-3628-4a26-be56-af388f90bff8": {
+    "id": "b439b4a8-3628-4a26-be56-af388f90bff8",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-02T06:47:54.625833",
+    "updated_at": "2026-11-02T06:47:54.627278",
+    "messages": [
+      {
+        "id": "51b03c97-2b45-40ef-a93c-717992484eac",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-02T06:47:54.627278",
+        "citations": []
+      },
+      {
+        "id": "1e34583d-d65c-4f04-a447-f5361c49888f",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-02T06:47:54.627278",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "7e9076ac-43e0-44c4-a1b1-233e98e05b72": {
+    "id": "7e9076ac-43e0-44c4-a1b1-233e98e05b72",
+    "title": "RAG Verification",
+    "created_at": "2026-11-02T06:48:04.777461",
+    "updated_at": "2026-11-02T06:48:05.780178",
+    "messages": [
+      {
+        "id": "061b34cc-0638-465e-9f51-df591360247d",
+        "sender": "ai",
+        "text": "📄 **Document Attached**: `Alex_Software_Engineer_Resume.pdf`\n\n- **Pages Processed**: 1\n- **Knowledge Chunks Indexed**: 3\n\nYou can now ask questions specifically about this document, such as:\n- *'Summarize the key qualifications and technical skills in this document.'*\n- *'What areas of improvement do you suggest for this resume?'*\n- *'Generate 5 interview questions based on my background.'*",
+        "timestamp": "2026-11-02T06:48:05.673960",
+        "citations": []
+      },
+      {
+        "id": "61adb378-7a72-4047-a42b-6dd725245f79",
+        "sender": "ai",
+        "text": "Detached `Alex_Software_Engineer_Resume.pdf`. Subsequent questions will use general career guidance knowledge.",
+        "timestamp": "2026-11-02T06:48:05.780178",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "65513907-b291-411d-a32b-6e4b0939fb03": {
+    "id": "65513907-b291-411d-a32b-6e4b0939fb03",
+    "title": "New Career Chat",
+    "created_at": "2026-11-02T09:54:50.176283",
+    "updated_at": "2026-11-02T09:54:50.176283",
+    "messages": [],
+    "uploaded_document": null
+  },
+  "bc1aa8a0-b436-4091-a50e-00d825b885c4": {
+    "id": "bc1aa8a0-b436-4091-a50e-00d825b885c4",
+    "title": "how to crack aptitude question i...",
+    "created_at": "2026-11-02T09:58:03.064944",
+    "updated_at": "2026-11-02T10:06:05.000022",
+    "messages": [
+      {
+        "id": "6350701e-960e-4e3c-9d8f-631d4ac84c34",
+        "sender": "user",
+        "text": "how to crack aptitude question in technical round",
+        "timestamp": "2026-11-02T10:02:37.221314",
+        "citations": []
+      },
+      {
+        "id": "5189ab14-bf4e-44f6-9f9e-378813bdac89",
+        "sender": "ai",
+        "text": "I encountered an error communicating with Google Gemini API: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}",
+        "timestamp": "2026-11-02T10:02:37.917907",
+        "citations": []
+      },
+      {
+        "id": "1f40e7aa-1acd-4c4c-9ec3-31d0c233a82c",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-02T10:06:04.443766",
+        "citations": []
+      },
+      {
+        "id": "0544aa09-718c-4389-a096-8d92d0c3b30e",
+        "sender": "ai",
+        "text": "I encountered an error communicating with Google Gemini API: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}",
+        "timestamp": "2026-11-02T10:06:05.000022",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "2ed746c5-fdf0-4bf2-a061-235635332dbd": {
+    "id": "2ed746c5-fdf0-4bf2-a061-235635332dbd",
+    "title": "how to crack in technical aptitu...",
+    "created_at": "2026-11-02T10:20:04.915386",
+    "updated_at": "2026-11-02T11:05:47.130295",
+    "messages": [
+      {
+        "id": "b462723f-4717-4db9-a42e-e28086a043b2",
+        "sender": "user",
+        "text": "how to crack in technical aptitude questions",
+        "timestamp": "2026-11-02T10:20:46.154855",
+        "citations": []
+      },
+      {
+        "id": "29c396c0-dca0-4ad0-831f-be8b717ae55a",
+        "sender": "ai",
+        "text": "I encountered an error communicating with Google Gemini API: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/get-started).', 'status': 'NOT_FOUND'}}",
+        "timestamp": "2026-11-02T10:20:46.655681",
+        "citations": []
+      },
+      {
+        "id": "40ff2406-2175-4608-8c18-e282647340b8",
+        "sender": "user",
+        "text": "how to crack in technical aptitude questions",
+        "timestamp": "2026-11-02T10:48:31.751814",
+        "citations": []
+      },
+      {
+        "id": "0df097dd-37e2-4c43-b675-d74e10c2a469",
+        "sender": "ai",
+        "text": "Cracking technical aptitude tests requires a blend of strong core computer science fundamentals, analytical thinking, and efficient time management. These tests are widely used by tech companies to filter candidates before the coding or personal interview rounds.\n\nHere is a step-by-step roadmap and strategy to help you prepare and ace technical aptitude questions:\n\n---\n\n### 1. Understand What Technical Aptitude Covers\nTechnical aptitude tests typically evaluate your understanding across four key pillars:\n\n* **Programming Concepts & Output Prediction:** Tracing code snippets (in C, C++, Java, or Python), recursion, pointers, scope of variables, and pre/post-increment operations.\n* **Data Structures & Algorithms (DSA):** Time and space complexity (Big-O), arrays, linked lists, stacks, queues, trees, sorting, and searching.\n* **Core CS Fundamentals:** \n  * *DBMS:* SQL queries, normalization, ACID properties, indexing, keys.\n  * *Operating Systems:* Process scheduling, deadlocks, multithreading, memory management.\n  * *Computer Networks:* OSI model, TCP/IP, IP addressing, HTTP/HTTPS, routing.\n* **Object-Oriented Programming (OOP):** Inheritance, polymorphism, encapsulation, abstraction, and access specifiers.\n\n---\n\n### 2. Core Preparation Strategy\n\n#### A. Master Code Tracing (Dry Running)\nMany questions ask: *\"What is the output of the following code snippet?\"*\n* **Use Pen and Paper:** Do not try to execute complex loops, pointer arithmetic, or recursion in your head. Draw a small trace table tracking variable states across each iteration.\n* **Watch Out for Syntax Traps:** Look for semicolons after `if` or `for` loops (e.g., `for(...);`), uninitialized variables, integer overflow, or integer division issues (e.g., `5 / 2 = 2` in C/C++ vs `2.5` in Python).\n\n#### B. Learn Complexity Analysis Inside Out\n* Understand how to calculate the Big-O time complexity of nested loops, divide-and-conquer recurrence relations (Master Theorem), and standard algorithm complexities (e.g., QuickSort best vs. worst case).\n\n#### C. Focus on High-Yield DBMS and SQL Queries\n* Be prepared to identify the output of `JOIN` queries, `GROUP BY` with `HAVING`, and nested subqueries.\n* Review primary keys, foreign keys, and Normal Forms (1NF, 2NF, 3NF, BCNF).\n\n---\n\n### 3. Exam-Taking Techniques\n\n* **Use the Elimination Technique:** If you are unsure of the correct answer, identify and eliminate options that are obviously incorrect (e.g., syntax errors, out-of-range bounds, or impossible complexities).\n* **Manage Your Time Wisely:** Most technical assessments allow roughly **1 to 1.5 minutes per question**. If a question requires extensive manual computation or pointer tracing, mark it for review and move on.\n* **Beware of Negative Marking:** Check beforehand if the exam penalizes wrong answers. If there is negative marking, avoid wild guesses.\n* **Identify Edge Cases:** When analyzing snippets, check boundary conditions:\n  * What happens if the loop runs zero times?\n  * What if a pointer or variable is `null`/`0`?\n\n---\n\n### 4. Recommended Practice Platforms\n\n* **GeeksforGeeks (Quizzes):** Excellent topic-wise MCQs for C, C++, Java, Python, DBMS, OS, and Data Structures.\n* **IndiaBIX & Sanfoundry:** Great for practicing standard technical aptitude questions and repetitive patterns.\n* **HackerRank / HackerEarth:** Ideal for company-specific test simulations (TCS NQT, Cognizant, Infosys, Capgemini, etc.).\n\n---\n\n### Suggested 3-Week Study Plan\n\n| Week | Focus Area | Goal |\n| :--- | :--- | :--- |\n| **Week 1** | Language Basics & DSA | Practice 30–40 output/tracing MCQs daily; review Big-O complexities. |\n| **Week 2** | Core CS (DBMS, OS, CN, OOP) | Review theoretical concepts and practice 25–30 MCQs per topic. |\n| **Week 3** | Mock Tests & Speed Building | Take timed mock tests to identify weak areas and refine pacing. |\n\n***\n\n*If you are preparing for a specific company's assessment (like TCS, Infosys, Amazon, etc.) or a particular programming language, let me know so I can tailor the guidance to your needs!*",
+        "timestamp": "2026-11-02T11:05:47.130295",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "5337162e-c160-47a7-8903-e5b8835a5134": {
+    "id": "5337162e-c160-47a7-8903-e5b8835a5134",
+    "title": "New Career Chat",
+    "created_at": "2026-11-02T11:16:48.417840",
+    "updated_at": "2026-11-02T11:17:36.175440",
+    "messages": [
+      {
+        "id": "e29829fa-c180-440d-9421-166ba6f666c8",
+        "sender": "ai",
+        "text": "Detached `document`. Subsequent questions will use general career guidance knowledge.",
+        "timestamp": "2026-11-02T11:17:36.175440",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "86f33459-6220-4327-8b0c-d747ecb78d63": {
+    "id": "86f33459-6220-4327-8b0c-d747ecb78d63",
+    "title": "what is machine learning",
+    "created_at": "2026-11-02T11:20:52.690728",
+    "updated_at": "2026-11-02T11:21:19.956398",
+    "messages": [
+      {
+        "id": "b6c5b241-7915-46a0-a8f2-3a77e991f203",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-02T11:21:05.494489",
+        "citations": []
+      },
+      {
+        "id": "a38d85f1-1d20-417e-af57-0cdc261521fb",
+        "sender": "ai",
+        "text": "Gemini API error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+        "timestamp": "2026-11-02T11:21:19.956398",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "2bc07d50-45e9-4483-ab82-871049e35428": {
+    "id": "2bc07d50-45e9-4483-ab82-871049e35428",
+    "title": "what is machine learning",
+    "created_at": "2026-11-02T11:24:54.495088",
+    "updated_at": "2026-11-02T11:25:14.154613",
+    "messages": [
+      {
+        "id": "47a5b384-c83a-40cd-8b11-928a7d2731b2",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-02T11:25:14.154613",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "9be3d57f-fc89-470c-bfc7-0dde1784910a": {
+    "id": "9be3d57f-fc89-470c-bfc7-0dde1784910a",
+    "title": "what is machine learning",
+    "created_at": "2026-11-02T11:29:29.555103",
+    "updated_at": "2026-11-02T11:31:11.546373",
+    "messages": [
+      {
+        "id": "aa2bb913-da6e-4299-8d7d-e65f4a651fbc",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-02T11:29:40.385727",
+        "citations": []
+      },
+      {
+        "id": "d8a156c4-23a8-42ab-b5c7-7f5d56ae240f",
+        "sender": "ai",
+        "text": "Gemini API error: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}",
+        "timestamp": "2026-11-02T11:31:11.546373",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "5f2be1e2-085d-4645-ab10-804f095c6692": {
+    "id": "5f2be1e2-085d-4645-ab10-804f095c6692",
+    "title": "what is machine learning",
+    "created_at": "2026-11-02T11:33:51.594073",
+    "updated_at": "2026-11-02T11:34:15.584694",
+    "messages": [
+      {
+        "id": "b427b4a1-a268-4468-81a3-de18189c36d6",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-02T11:34:04.786637",
+        "citations": []
+      },
+      {
+        "id": "52716fd5-040e-4417-9c2b-f75e5f88552a",
+        "sender": "ai",
+        "text": "Gemini is temporarily experiencing high demand. I retried automatically, but the service is still busy. Please try again in a moment.",
+        "timestamp": "2026-11-02T11:34:15.584694",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "b074a38f-74e8-4c4b-9aec-4a0b814008c3": {
+    "id": "b074a38f-74e8-4c4b-9aec-4a0b814008c3",
+    "title": "full stack question",
+    "created_at": "2026-11-02T11:39:54.260545",
+    "updated_at": "2026-11-02T11:45:05.615476",
+    "messages": [
+      {
+        "id": "286ea1aa-4035-4ebe-b9c5-9a0c11c7476d",
+        "sender": "user",
+        "text": "full stack question",
+        "timestamp": "2026-11-02T11:40:14.123362",
+        "citations": []
+      },
+      {
+        "id": "6cf42b8e-fd26-4972-a8a4-d22fb5d782f3",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-02T11:40:14.132080",
+        "citations": []
+      },
+      {
+        "id": "4992dd74-0f0f-4eeb-a1f2-5c06f945a57d",
+        "sender": "user",
+        "text": "carrer type",
+        "timestamp": "2026-11-02T11:40:42.537123",
+        "citations": []
+      },
+      {
+        "id": "cf713c37-3896-4268-9265-4232c7674a77",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-02T11:40:42.544532",
+        "citations": []
+      },
+      {
+        "id": "cfbafa0d-8582-48a6-b27b-56213c46a252",
+        "sender": "user",
+        "text": "python",
+        "timestamp": "2026-11-02T11:40:57.764003",
+        "citations": []
+      },
+      {
+        "id": "ac92694d-bfd4-4fc2-9498-944371bf45e7",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your intelligent, professional, and empathetic AI career guidance assistant. I am here to help you navigate your professional journey, particularly in fields like Python, Data Science, Artificial Intelligence, Machine Learning, software development, and general IT careers.\n\n### Exploring a Career with Python\n\nPython is one of the most versatile and in-demand programming languages in the tech industry today. Because of its readability and vast ecosystem of libraries, it opens doors to several exciting career paths:\n\n*   **Software Developer / Backend Engineer:** Building robust server-side logic, APIs, and web applications using frameworks like Django, Flask, or FastAPI.\n*   **Data Scientist:** Analyzing complex data sets, building predictive models, and extracting actionable business insights using libraries like Pandas, NumPy, and Scikit-Learn.\n*   **Artificial Intelligence / Machine Learning Engineer:** Designing intelligent systems, training neural networks, and developing machine learning pipelines using frameworks like TensorFlow or PyTorch.\n*   **Automation / DevOps Engineer:** Writing scripts to automate repetitive tasks, manage infrastructure, and streamline deployment processes.\n\n### How to Get Started or Advance in Python\n\n1.  **Master the Fundamentals:** \n    *   Learn core concepts: variables, data types, loops, functions, and object-oriented programming (OOP).\n2.  **Build Projects:** \n    *   Apply your knowledge by building real-world projects (e.g., a personal portfolio website, a web scraper, or a predictive data model).\n3.  **Prepare Your Resume and Portfolio:** \n    *   Highlight your Python projects on GitHub and tailor your resume to emphasize problem-solving and technical skills.\n4.  **Practice Interview Skills:** \n    *   Brush up on data structures, algorithms, and Python-specific coding questions commonly asked in technical interviews.\n\n***\n\nHow can I assist you further with your career path or skill development in Python today?",
+        "timestamp": "2026-11-02T11:41:21.182016",
+        "citations": []
+      },
+      {
+        "id": "04e47eb5-c818-4ae9-9b07-a328ec1132c0",
+        "sender": "user",
+        "text": "what is python",
+        "timestamp": "2026-11-02T11:42:06.385822",
+        "citations": []
+      },
+      {
+        "id": "3ae11b85-b6ae-48e7-adaf-54d7bce2efd4",
+        "sender": "ai",
+        "text": "Gemini took too long to respond. I retried once, but the request still timed out. Please try again or shorten the question/document.",
+        "timestamp": "2026-11-02T11:45:05.615476",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "232adbb5-241d-4bb4-98ab-c87946ec1c10": {
+    "id": "232adbb5-241d-4bb4-98ab-c87946ec1c10",
+    "title": "what is machine learning",
+    "created_at": "2026-11-02T11:44:18.726409",
+    "updated_at": "2026-11-02T11:45:20.263204",
+    "messages": [
+      {
+        "id": "0ff13925-cf7d-4d20-95c5-1762516c14c1",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-02T11:44:48.962371",
+        "citations": []
+      },
+      {
+        "id": "915ef41b-5ed4-4af7-b1b1-9f74afb10f43",
+        "sender": "ai",
+        "text": "Hello! I am **CareerMate**, your intelligent, professional, and empathetic AI career guidance assistant. I am here to help you navigate your journey in careers, education, professional development, and technical fields like Data Science, Artificial Intelligence, Machine Learning, and Software Development.\n\n---\n\n### What is Machine Learning?\n\n**Machine Learning (ML)** is a subset of **Artificial Intelligence (AI)** that focuses on building systems capable of learning from data and improving their performance over time without being explicitly programmed for every single task.\n\nInstead of writing rigid rules in code, developers feed large amounts of data into a machine learning algorithm, which then identifies patterns, makes predictions, or solves problems.\n\n---\n\n### Core Concepts of Machine Learning\n\n1. **Data Collection:** Gathering relevant historical data (e.g., house prices, customer purchase history, or images of cats and dogs).\n2. **Training:** Feeding the data into an algorithm so it can recognize patterns and relationships.\n3. **Prediction / Inference:** Using the trained model to make decisions or predictions on new, unseen data.\n4. **Evaluation & Improvement:** Testing the model's accuracy and fine-tuning it to improve its results.\n\n---\n\n### Common Types of Machine Learning\n\n* **Supervised Learning:** The model is trained on labeled data (input and correct output are provided). \n  * *Example:* Predicting housing prices based on square footage, location, and number of bedrooms.\n* **Unsupervised Learning:** The model looks for hidden patterns in unlabeled data.\n  * *Example:* Customer segmentation for marketing campaigns based on purchasing behavior.\n* **Reinforcement Learning:** The model learns by trial and error, receiving rewards or penalties for its actions.\n  * *Example:* Training an AI agent to play video games or navigate a self-driving car.\n\n---\n\n### Practical Examples in the Real World\n\n* **Recommendation Systems:** Platforms like Netflix or Spotify analyzing your past viewing/listening habits to suggest movies or songs you might like.\n* **Fraud Detection:** Banks automatically flagging suspicious credit card transactions in real-time.\n* **Virtual Assistants:** Speech-to-text tools like Siri or Google Assistant understanding spoken commands.\n\n---\n\nIf you are looking to build a career in Machine Learning, Data Science, or AI, feel free to ask me about essential skills, learning paths, or interview preparation!",
+        "timestamp": "2026-11-02T11:45:20.263204",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "5fd5cb4c-d784-40ef-ba2d-a0b37794070a": {
+    "id": "5fd5cb4c-d784-40ef-ba2d-a0b37794070a",
+    "title": "tell the fullstack interview pre...",
+    "created_at": "2026-11-02T11:48:48.975657",
+    "updated_at": "2026-11-02T11:51:00.623161",
+    "messages": [
+      {
+        "id": "aa58b20e-6536-4bb5-9763-615120a0595f",
+        "sender": "user",
+        "text": "tell the fullstack interview preparations",
+        "timestamp": "2026-11-02T11:49:27.846745",
+        "citations": []
+      },
+      {
+        "id": "e6d096ed-7a26-4182-90a0-35bf0a280f9b",
+        "sender": "ai",
+        "text": "Gemini took too long to respond. I retried once, but the request still timed out. Please try again or shorten the question/document.",
+        "timestamp": "2026-11-02T11:51:00.623161",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "5ca134cf-41cb-459c-b05f-bad5d7b658ad": {
+    "id": "5ca134cf-41cb-459c-b05f-bad5d7b658ad",
+    "title": "define data science",
+    "created_at": "2026-11-02T11:54:21.296593",
+    "updated_at": "2026-11-02T11:56:51.680287",
+    "messages": [
+      {
+        "id": "d302ba70-eec3-450b-a070-3f3e11152e20",
+        "sender": "user",
+        "text": "define data science",
+        "timestamp": "2026-11-02T11:54:47.948646",
+        "citations": []
+      },
+      {
+        "id": "e53e3f5e-1546-4b5a-9ed1-99af0e336827",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-02T11:54:47.960815",
+        "citations": []
+      },
+      {
+        "id": "52aaa354-3f65-4cd8-b078-9b84003e82c0",
+        "sender": "user",
+        "text": "what is AI",
+        "timestamp": "2026-11-02T11:55:17.859000",
+        "citations": []
+      },
+      {
+        "id": "42418f69-fc03-4c46-be07-d19876453923",
+        "sender": "ai",
+        "text": "Artificial Intelligence (AI) refers to the development of computer systems capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, language understanding, and decision-making. \n\nFor example, AI powers virtual assistants like Siri or Alexa, recommendation algorithms on streaming platforms like Netflix, and fraud detection systems used by banks.",
+        "timestamp": "2026-11-02T11:56:51.680287",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "e66bac62-9d9b-42aa-8ef6-d9e7a037dedb": {
+    "id": "e66bac62-9d9b-42aa-8ef6-d9e7a037dedb",
+    "title": "optimize resumes for ats",
+    "created_at": "2026-11-02T12:02:39.123247",
+    "updated_at": "2026-11-02T12:04:38.371190",
+    "messages": [
+      {
+        "id": "f50176cb-98dd-4397-99a6-db466315fc99",
+        "sender": "user",
+        "text": "optimize resumes for ats",
+        "timestamp": "2026-11-02T12:03:26.777041",
+        "citations": []
+      },
+      {
+        "id": "35c9688f-262d-481c-bde1-f7dc1038205c",
+        "sender": "ai",
+        "text": "To optimize your resume for Applicant Tracking Systems (ATS), follow these core strategies:\n\n### 1. Tailor Keywords to the Job Description\n* **Match exact terms:** Identify required hard skills, tools, certifications, and job titles from the job posting and include them naturally in your resume.\n* **Use variations:** Include both acronyms and full terms where applicable (e.g., \"Search Engine Optimization (SEO)\" or \"Natural Language Processing (NLP)\").\n\n### 2. Keep the Formatting Simple\n* **Use standard section headers:** Stick to traditional titles like \"Work Experience,\" \"Education,\" \"Skills,\" and \"Summary.\"\n* **Avoid complex elements:** Do not use tables, text boxes, columns, headers/footers, icons, or graphics, as ATS parsers often skip or misread them.\n* **Choose ATS-friendly fonts:** Use standard fonts such as Arial, Calibri, Helvetica, or Times New Roman (size 10–12 pt).\n\n### 3. Choose the Right File Format\n* **PDF vs. Word:** Submit a `.docx` file or a plain text PDF, depending on the job portal instructions. If unspecified, `.docx` is generally the safest for ATS readability.\n\n### 4. Structure Experience with Clear Metrics\n* Use a reverse-chronological layout (most recent job first).\n* Format work entries consistently: **Job Title, Company Name, Location, Dates (Month Year)**.\n* Highlight achievements using bullet points with strong action verbs and quantifiable results (e.g., *\"Increased model accuracy by 15% using Python and scikit-learn\"*).\n\n---\n\n### ATS Optimization Checklist\n| Do | Don't |\n| :--- | :--- |\n| Use bullet points for readability | Place vital info inside headers or footers |\n| Use standard industry job titles | Use creative headers like \"Where I've Been\" |\n| Save file as `Firstname_Lastname_Resume.pdf` | Use skill rating bars or images |",
+        "timestamp": "2026-11-02T12:04:38.371190",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "1268ab33-9b0e-4882-b145-e07dc41f7556": {
+    "id": "1268ab33-9b0e-4882-b145-e07dc41f7556",
+    "title": "full stack interview questions",
+    "created_at": "2026-11-03T17:19:22.289279",
+    "updated_at": "2026-11-03T17:28:08.100107",
+    "messages": [
+      {
+        "id": "f0e9666e-d998-49d9-a0b2-6aa58ff51490",
+        "sender": "user",
+        "text": "full stack interview questions",
+        "timestamp": "2026-11-03T17:19:44.921328",
+        "citations": []
+      },
+      {
+        "id": "92faa212-be37-4bcd-bb8b-871559cbe209",
+        "sender": "ai",
+        "text": "Preparing for a full-stack developer interview requires covering both front-end and back-end technologies, as well as system design and databases. Here is a categorized list of commonly asked interview questions:\n\n### Front-End Development\n*   **HTML/CSS:** What is the CSS Box Model? Explain the difference between `display: inline`, `block`, and `inline-block`.\n*   **JavaScript:** Explain closures, hoisting, and the difference between `let`, `const`, and `var`. \n*   **Async JavaScript:** How do Promises work, and how do `async/await` differ from traditional callbacks?\n*   **Frameworks (React/Angular/Vue):** What is the virtual DOM in React, and how does state management work?\n\n### Back-End Development\n*   **Node.js/Express:** Explain the event loop in Node.js. How does Node handle asynchronous operations despite being single-threaded?\n*   **APIs:** What are the principles of RESTful API design? What is the difference between PUT and PATCH?\n*   **Authentication:** Explain how JSON Web Tokens (JWT) work for user authentication and session management.\n*   **Security:** What are common web vulnerabilities (like OWASP Top 10, e.g., SQL Injection, XSS, CSRF), and how do you prevent them?\n\n### Databases & Storage\n*   **SQL vs. NoSQL:** When would you choose a relational database (like PostgreSQL or MySQL) over a non-relational database (like MongoDB)?\n*   **Indexing:** What is a database index, and how does it improve query performance?\n*   **Cogs/Caching:** How and why would you implement a caching layer using Redis or Memcached?\n\n### System Design & Architecture\n*   **Architecture:** Explain the difference between Monolithic and Microservices architectures.\n*   **Scalability:** How would you scale a web application to handle millions of concurrent users (e.g., load balancers, horizontal vs. vertical scaling)?\n*   **Version Control:** Explain how you resolve merge conflicts in Git and describe your branching strategy (e.g., Git Flow).",
+        "timestamp": "2026-11-03T17:20:26.397536",
+        "citations": []
+      },
+      {
+        "id": "5c6bf83f-5347-409f-95de-ba56c706a27e",
+        "sender": "user",
+        "text": "how to acheive carrer",
+        "timestamp": "2026-11-03T17:22:00.332100",
+        "citations": []
+      },
+      {
+        "id": "acfaa877-8334-42cf-b3ac-2c74a5239943",
+        "sender": "ai",
+        "text": "Building a successful career in technology involves a structured approach combining continuous learning, practical experience, and professional networking. \n\n*   **Define Your Goal:** Identify the specific path you want to pursue (e.g., Frontend, Backend, Full Stack, Data Science, or AI/ML) based on your interests and strengths.\n*   **Build Foundational Skills:** Master the core technologies required for your chosen path through structured courses, documentation, and coding platforms.\n*   **Create Practical Projects:** Apply your knowledge by building real-world projects from scratch. Deploy them online and host the source code on GitHub to showcase your abilities to potential employers.\n*   **Build a Professional Portfolio & Resume:** Create a clean portfolio website and a concise, achievement-oriented resume highlighting your technical skills and project outcomes.\n*   **Network and Engage:** Connect with other professionals on platforms like LinkedIn, attend tech meetups or webinars, and contribute to open-source projects.\n*   **Prepare for Interviews:** Practice technical coding problems, system design concepts, and behavioral questions to build confidence for the hiring process.",
+        "timestamp": "2026-11-03T17:23:06.856734",
+        "citations": []
+      },
+      {
+        "id": "6f942f54-ab43-4fc4-add6-f4de5e56951f",
+        "sender": "user",
+        "text": "what is ai",
+        "timestamp": "2026-11-03T17:25:15.261301",
+        "citations": []
+      },
+      {
+        "id": "013a9202-226c-4817-b656-48a8d411b5ce",
+        "sender": "ai",
+        "text": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, learn, adapt, and solve problems. \n\nAI encompasses several sub-fields, most notably:\n*   **Machine Learning (ML):** Systems that learn from data to improve their performance over time without being explicitly programmed.\n*   **Deep Learning:** An advanced subset of machine learning using artificial neural networks inspired by the human brain, used for complex tasks like image and speech recognition.\n\n**Practical Examples:**\n*   **Recommendation Engines:** Algorithms used by Netflix or Spotify to suggest movies or music based on your viewing and listening history.\n*   **Virtual",
+        "timestamp": "2026-11-03T17:25:49.514338",
+        "citations": []
+      },
+      {
+        "id": "23e37aa6-7e66-4361-bc7f-3af22922c823",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-03T17:27:38.067592",
+        "citations": []
+      },
+      {
+        "id": "0403ebec-b9bb-4e54-ae4e-cec74f51f717",
+        "sender": "ai",
+        "text": "Machine Learning (ML) is a subset of",
+        "timestamp": "2026-11-03T17:28:08.100107",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "123c9f86-6e87-4379-81e0-ee10f9952f54": {
+    "id": "123c9f86-6e87-4379-81e0-ee10f9952f54",
+    "title": "ai means",
+    "created_at": "2026-11-03T17:28:36.825851",
+    "updated_at": "2026-11-03T17:28:44.924672",
+    "messages": [
+      {
+        "id": "59b113fe-2ef0-4d71-abf8-5d9768b9c3d4",
+        "sender": "user",
+        "text": "ai means",
+        "timestamp": "2026-11-03T17:28:44.924672",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "14a5bf0e-3e9e-4313-a12d-e7c056a91f8c": {
+    "id": "14a5bf0e-3e9e-4313-a12d-e7c056a91f8c",
+    "title": "what is python",
+    "created_at": "2026-11-03T17:29:51.482307",
+    "updated_at": "2026-11-03T17:39:39.678080",
+    "messages": [
+      {
+        "id": "3183b02f-4e9b-4b24-8dc1-a640382b37c0",
+        "sender": "user",
+        "text": "what is python",
+        "timestamp": "2026-11-03T17:29:59.020224",
+        "citations": []
+      },
+      {
+        "id": "c266acbf-858e-4ac1-854a-0fb430ae425c",
+        "sender": "ai",
+        "text": "Python is a high-level, interpreted programming language known for its simplicity and readability. It uses clear syntax, making it an excellent choice for beginners and experienced developers alike. \n\nIn the tech industry, Python is widely used for:\n*   **Data Science and Machine Learning:** Libraries like Pandas, Scikit-Learn, and TensorFlow make it the industry standard for analyzing data and building AI models.\n*   **Software and Web Development:** Frameworks like Django and Flask allow developers to build robust web applications quickly.\n*   **Automation and Scripting:** It is frequently used to automate repetitive tasks, such as file management or data scraping. \n\nFor example, a simple Python script to print a greeting looks like this:\n```python\nprint(\"Hello, CareerMate!\")\n```",
+        "timestamp": "2026-11-03T17:30:24.835271",
+        "citations": []
+      },
+      {
+        "id": "8145f9f5-a60b-406a-8d96-33132749e598",
+        "sender": "user",
+        "text": "what is ai",
+        "timestamp": "2026-11-03T17:32:54.204404",
+        "citations": []
+      },
+      {
+        "id": "c8e7a72e-c1e2-4fe6-9c63-fd97557e6bbf",
+        "sender": "ai",
+        "text": "Artificial Intelligence (",
+        "timestamp": "2026-11-03T17:33:22.491757",
+        "citations": []
+      },
+      {
+        "id": "511fdf32-ae42-4c31-b719-f11533be146d",
+        "sender": "user",
+        "text": "full stack questions",
+        "timestamp": "2026-11-03T17:33:47.956292",
+        "citations": []
+      },
+      {
+        "id": "cafd8112-b787-4cdb-a420-622fda5471a9",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T17:33:47.970528",
+        "citations": []
+      },
+      {
+        "id": "6e2e8275-f4d2-4f58-895e-4ceb18a088d2",
+        "sender": "user",
+        "text": "full stack interview questions",
+        "timestamp": "2026-11-03T17:34:08.715062",
+        "citations": []
+      },
+      {
+        "id": "c2a4365b-038a-4b7f-a839-bc665af597d8",
+        "sender": "user",
+        "text": "what is python",
+        "timestamp": "2026-11-03T17:34:54.326561",
+        "citations": []
+      },
+      {
+        "id": "8f948e4e-1400-42df-947f-31a846e0527a",
+        "sender": "ai",
+        "text": "start with the answer itself",
+        "timestamp": "2026-11-03T17:35:31.796814",
+        "citations": []
+      },
+      {
+        "id": "f57da232-0ec5-4931-b474-9f092c9c2a2f",
+        "sender": "user",
+        "text": "python",
+        "timestamp": "2026-11-03T17:36:57.652114",
+        "citations": []
+      },
+      {
+        "id": "12b74d81-c595-4f9f-93ee-739710188be4",
+        "sender": "ai",
+        "text": "Python is a high-level, interpreted programming language widely used in software development, data science, and artificial intelligence due to its readability and versatility.",
+        "timestamp": "2026-11-03T17:37:26.775701",
+        "citations": []
+      },
+      {
+        "id": "5b6ce88e-00db-4d7e-80e2-3062bab9098d",
+        "sender": "user",
+        "text": "what is AI",
+        "timestamp": "2026-11-03T17:39:13.838225",
+        "citations": []
+      },
+      {
+        "id": "427cfec7-530f-4e3d-a00a-fbd96fd6dd95",
+        "sender": "ai",
+        "text": "Artificial Intelligence (",
+        "timestamp": "2026-11-03T17:39:39.678080",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "4e818022-e00b-4c41-ae82-bc2758fd63ea": {
+    "id": "4e818022-e00b-4c41-ae82-bc2758fd63ea",
+    "title": "Hello",
+    "created_at": "2026-11-03T17:35:51.381458",
+    "updated_at": "2026-11-03T17:35:51.392170",
+    "messages": [
+      {
+        "id": "ff64b6c7-c8a9-4545-b618-840ba33959fb",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-03T17:35:51.381458",
+        "citations": []
+      },
+      {
+        "id": "0e799bb4-e99c-4a11-9ec5-3002e95e2c59",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant.\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-03T17:35:51.392170",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "8b551111-adaa-4063-875b-4700c5e9ded6": {
+    "id": "8b551111-adaa-4063-875b-4700c5e9ded6",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-03T17:35:51.394831",
+    "updated_at": "2026-11-03T17:35:51.418713",
+    "messages": [
+      {
+        "id": "f67e2422-0901-4628-9702-760a93923a70",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-03T17:35:51.412169",
+        "citations": []
+      },
+      {
+        "id": "88a253d8-ba6e-4f63-b96b-8355f75bc263",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T17:35:51.418713",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "a3ecc8ea-bf71-4570-87ff-6a9efb903ce1": {
+    "id": "a3ecc8ea-bf71-4570-87ff-6a9efb903ce1",
+    "title": "How do I prepare for a Python de...",
+    "created_at": "2026-11-03T17:35:51.430202",
+    "updated_at": "2026-11-03T17:35:51.440165",
+    "messages": [
+      {
+        "id": "2e0bc656-d344-424c-aecb-507b2f459144",
+        "sender": "user",
+        "text": "How do I prepare for a Python developer interview?",
+        "timestamp": "2026-11-03T17:35:51.430202",
+        "citations": []
+      },
+      {
+        "id": "68020ec6-5650-47b4-ae2e-e9ae17813955",
+        "sender": "ai",
+        "text": "Quick answer.",
+        "timestamp": "2026-11-03T17:35:51.440165",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "f499b368-afcc-40bb-8223-22c0949ddfe3": {
+    "id": "f499b368-afcc-40bb-8223-22c0949ddfe3",
+    "title": "WHAT IS AI",
+    "created_at": "2026-11-03T17:41:32.753166",
+    "updated_at": "2026-11-03T17:42:04.397128",
+    "messages": [
+      {
+        "id": "ccae2250-95aa-4725-a3e5-4a3086947892",
+        "sender": "user",
+        "text": "WHAT IS AI",
+        "timestamp": "2026-11-03T17:41:41.684141",
+        "citations": []
+      },
+      {
+        "id": "8af38e88-ab88-4c41-9a68-8dd0988a3964",
+        "sender": "ai",
+        "text": "Artificial Intelligence is the simulation of human intelligence in machines programmed to think and learn like humans.",
+        "timestamp": "2026-11-03T17:42:04.397128",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "5f8494ad-63ae-4cf4-9fb8-bbf054f8c930": {
+    "id": "5f8494ad-63ae-4cf4-9fb8-bbf054f8c930",
+    "title": "Hello",
+    "created_at": "2026-11-03T17:43:16.227142",
+    "updated_at": "2026-11-03T17:43:16.241949",
+    "messages": [
+      {
+        "id": "bf09bef7-3460-4212-8d74-bb4664ef1d07",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-03T17:43:16.235768",
+        "citations": []
+      },
+      {
+        "id": "b334db36-230c-41c8-b3e8-1ad361a3237b",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant.\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-03T17:43:16.241949",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "0da3ebcf-5154-4d5a-b9cd-3e6a7c9df828": {
+    "id": "0da3ebcf-5154-4d5a-b9cd-3e6a7c9df828",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-03T17:43:16.257140",
+    "updated_at": "2026-11-03T17:43:16.271150",
+    "messages": [
+      {
+        "id": "87e767f7-8731-45d6-b65f-b0b62f83c5b2",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-03T17:43:16.259199",
+        "citations": []
+      },
+      {
+        "id": "1f1abc64-9611-4411-9874-3ceac4805aaa",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T17:43:16.271150",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "6b687d42-3be6-4188-a76c-88bea15b5cbd": {
+    "id": "6b687d42-3be6-4188-a76c-88bea15b5cbd",
+    "title": "How do I prepare for a Python de...",
+    "created_at": "2026-11-03T17:43:16.281727",
+    "updated_at": "2026-11-03T17:43:16.296105",
+    "messages": [
+      {
+        "id": "d2cfbc4c-e06b-4415-b799-d740ef1ce003",
+        "sender": "user",
+        "text": "How do I prepare for a Python developer interview?",
+        "timestamp": "2026-11-03T17:43:16.285783",
+        "citations": []
+      },
+      {
+        "id": "d5432962-4929-419a-bfc8-70897a2be009",
+        "sender": "ai",
+        "text": "Quick answer.",
+        "timestamp": "2026-11-03T17:43:16.296105",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "f1cbbb2f-3c32-4617-b054-958d672290fa": {
+    "id": "f1cbbb2f-3c32-4617-b054-958d672290fa",
+    "title": "Hello",
+    "created_at": "2026-11-03T17:44:39.906637",
+    "updated_at": "2026-11-03T17:44:39.910731",
+    "messages": [
+      {
+        "id": "b8b32a95-4311-4806-b052-d381d8c348c6",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-03T17:44:39.910731",
+        "citations": []
+      },
+      {
+        "id": "f50de912-0c47-4def-9830-abb2d853f819",
+        "sender": "ai",
+        "text": "Hello! I'm **CareerMate**, your dedicated AI Career Guidance Assistant.\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- 🎯 **Career Planning & Transitions**: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- 📄 **Resume & Portfolio Reviews**: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- 💼 **Interview Preparation**: Practice behavioral, technical, and coding interview strategies.\n- 📚 **Skill & Certification Roadmaps**: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-03T17:44:39.910731",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "8b4dfc0a-0a41-4179-8174-bf2ec454f178": {
+    "id": "8b4dfc0a-0a41-4179-8174-bf2ec454f178",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-03T17:44:39.929085",
+    "updated_at": "2026-11-03T17:44:39.939249",
+    "messages": [
+      {
+        "id": "19756e7a-d258-4305-8cf0-8a701289f881",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-03T17:44:39.933488",
+        "citations": []
+      },
+      {
+        "id": "13a16fa0-6492-49c5-ba6a-9dae3e1bc011",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T17:44:39.939249",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "3c2b78a3-fe69-43f3-9f3d-46b0ed412fd2": {
+    "id": "3c2b78a3-fe69-43f3-9f3d-46b0ed412fd2",
+    "title": "How do I prepare for a Python de...",
+    "created_at": "2026-11-03T17:44:39.948038",
+    "updated_at": "2026-11-03T17:44:39.962320",
+    "messages": [
+      {
+        "id": "08eccc54-8059-47d3-8eaa-edc1ad8b8efe",
+        "sender": "user",
+        "text": "How do I prepare for a Python developer interview?",
+        "timestamp": "2026-11-03T17:44:39.962320",
+        "citations": []
+      },
+      {
+        "id": "e3a4a3be-e3cd-49ff-b22a-08265899c5bc",
+        "sender": "ai",
+        "text": "Quick answer.",
+        "timestamp": "2026-11-03T17:44:39.962320",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "79401a6a-2f60-4e9c-a3fc-6654dea1979f": {
+    "id": "79401a6a-2f60-4e9c-a3fc-6654dea1979f",
+    "title": "Test Chat",
+    "created_at": "2026-11-03T17:51:45.419929",
+    "updated_at": "2026-11-03T17:51:45.419929",
+    "messages": [],
+    "uploaded_document": null
+  },
+  "f5bb914f-bad3-46b4-9c42-d83451038023": {
+    "id": "f5bb914f-bad3-46b4-9c42-d83451038023",
+    "title": "what is AI",
+    "created_at": "2026-11-03T17:54:34.110945",
+    "updated_at": "2026-11-03T17:55:36.246879",
+    "messages": [
+      {
+        "id": "c36d50d3-0ddd-40f1-8fb6-e6aee3d2e17a",
+        "sender": "user",
+        "text": "what is AI",
+        "timestamp": "2026-11-03T17:54:44.994535",
+        "citations": []
+      },
+      {
+        "id": "4dadeb19-641d-455d-a4e6-a5479f808f92",
+        "sender": "ai",
+        "text": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines programmed to think, learn, adapt, and solve problems. These systems are designed to perform tasks that typically require human cognition, such as visual perception, speech recognition, decision-making, and language translation.",
+        "timestamp": "2026-11-03T17:54:56.337510",
+        "citations": []
+      },
+      {
+        "id": "2d9a689c-ad8f-477d-944e-95ba3607c87b",
+        "sender": "user",
+        "text": "what is python",
+        "timestamp": "2026-11-03T17:55:27.368340",
+        "citations": []
+      },
+      {
+        "id": "4c398fdc-f42e-49c1-be5f-74ad33e31cfd",
+        "sender": "ai",
+        "text": "Python is a high-level, interpreted programming language known for its clear syntax and readability. It supports multiple programming paradigms, including object-oriented, functional, and procedural programming. \n\nIn the tech industry, Python is widely used for:\n* **Data Science & AI:** It is the primary language for machine learning, data analysis, and deep learning, supported by libraries like NumPy, Pandas, TensorFlow, and PyTorch.\n* **Web Development:** Frameworks like Django and Flask make it popular for building scalable web applications.\n* **Automation & Scripting:** It is frequently used to automate repetitive tasks and manage system operations.",
+        "timestamp": "2026-11-03T17:55:36.246879",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "01d3f259-cb29-411a-8cf3-06e346f0c896": {
+    "id": "01d3f259-cb29-411a-8cf3-06e346f0c896",
+    "title": "what is python",
+    "created_at": "2026-11-03T17:58:06.423000",
+    "updated_at": "2026-11-03T17:58:46.464881",
+    "messages": [
+      {
+        "id": "489f47a9-b0f3-4b1b-a0e2-4ce694109e65",
+        "sender": "user",
+        "text": "what is python",
+        "timestamp": "2026-11-03T17:58:15.374200",
+        "citations": []
+      },
+      {
+        "id": "8a2f5dc9-f543-41a4-9b78-5e7158d9f672",
+        "sender": "ai",
+        "text": "Python is\n\nGemini could not finish the answer. Please try again.",
+        "timestamp": "2026-11-03T17:58:46.464881",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "75808c28-88a2-42c1-b06c-efd69cc0f44d": {
+    "id": "75808c28-88a2-42c1-b06c-efd69cc0f44d",
+    "title": "Hello",
+    "created_at": "2026-11-03T18:01:12.802504",
+    "updated_at": "2026-11-03T18:01:12.814266",
+    "messages": [
+      {
+        "id": "3fe50e5e-4312-4040-9e65-821da2dbad3a",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-03T18:01:12.808116",
+        "citations": []
+      },
+      {
+        "id": "44ee6098-d68c-4288-904e-aada96689913",
+        "sender": "ai",
+        "text": "Hello! I'm CareerMate, your dedicated AI Career Guidance Assistant.\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- Career Planning & Transitions: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- Resume & Portfolio Reviews: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- Interview Preparation: Practice behavioral, technical, and coding interview strategies.\n- Skill & Certification Roadmaps: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-03T18:01:12.814266",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "314e58b2-028e-456c-a4c9-b438b1584dce": {
+    "id": "314e58b2-028e-456c-a4c9-b438b1584dce",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-03T18:01:12.821763",
+    "updated_at": "2026-11-03T18:01:12.835434",
+    "messages": [
+      {
+        "id": "97340804-91d8-49ac-bf42-9d8efa19bd13",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-03T18:01:12.829320",
+        "citations": []
+      },
+      {
+        "id": "22b3d44d-2273-4f45-bef5-6e8b6538ccc2",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T18:01:12.835434",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "837937fd-e212-4312-9139-03060faaca95": {
+    "id": "837937fd-e212-4312-9139-03060faaca95",
+    "title": "How do I prepare for a Python de...",
+    "created_at": "2026-11-03T18:01:12.848065",
+    "updated_at": "2026-11-03T18:01:12.860385",
+    "messages": [
+      {
+        "id": "b88b8ce7-e5dd-4fa7-ac35-cf60a21657b6",
+        "sender": "user",
+        "text": "How do I prepare for a Python developer interview?",
+        "timestamp": "2026-11-03T18:01:12.852888",
+        "citations": []
+      },
+      {
+        "id": "e5533e06-006b-4a9f-8b2e-3039031eb2ee",
+        "sender": "ai",
+        "text": "Quick answer.",
+        "timestamp": "2026-11-03T18:01:12.860385",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "9d3da30a-e15d-48fa-8293-07d46af69fdb": {
+    "id": "9d3da30a-e15d-48fa-8293-07d46af69fdb",
+    "title": "Hello",
+    "created_at": "2026-11-03T18:02:03.963812",
+    "updated_at": "2026-11-03T18:02:03.982095",
+    "messages": [
+      {
+        "id": "829193eb-6d90-41d4-af8e-1372e765140d",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-03T18:02:03.974223",
+        "citations": []
+      },
+      {
+        "id": "886f1548-2503-4663-967e-815bbf3ebe0f",
+        "sender": "ai",
+        "text": "Hello! I'm CareerMate, your dedicated AI Career Guidance Assistant.\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- Career Planning & Transitions: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- Resume & Portfolio Reviews: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- Interview Preparation: Practice behavioral, technical, and coding interview strategies.\n- Skill & Certification Roadmaps: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-03T18:02:03.982095",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "8897dfbe-002b-4012-88b7-9aa61bac6f63": {
+    "id": "8897dfbe-002b-4012-88b7-9aa61bac6f63",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-03T18:02:03.996288",
+    "updated_at": "2026-11-03T18:02:04.009942",
+    "messages": [
+      {
+        "id": "1f3c8651-e432-42ba-af74-e36fa1c6ca01",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-03T18:02:04.003878",
+        "citations": []
+      },
+      {
+        "id": "8e05d376-fb0a-48ae-9f1a-bf3cee3536e4",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T18:02:04.009942",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "a4ab0c87-5ecd-4e54-90e4-e2d2b0ed643f": {
+    "id": "a4ab0c87-5ecd-4e54-90e4-e2d2b0ed643f",
+    "title": "How can I improve my software en...",
+    "created_at": "2026-11-03T18:02:04.017043",
+    "updated_at": "2026-11-03T18:02:04.032358",
+    "messages": [
+      {
+        "id": "d376cfa4-f5e5-4f61-b11e-e1d14001514b",
+        "sender": "user",
+        "text": "How can I improve my software engineering career?",
+        "timestamp": "2026-11-03T18:02:04.020070",
+        "citations": []
+      },
+      {
+        "id": "66114d39-0348-4a21-a7c0-8b6020c18e7c",
+        "sender": "ai",
+        "text": "Gemini is rate-limited right now. Please wait a moment and try again.",
+        "timestamp": "2026-11-03T18:02:04.032358",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "742c959b-ae15-4c49-ba2d-a3bdcd6e677f": {
+    "id": "742c959b-ae15-4c49-ba2d-a3bdcd6e677f",
+    "title": "How do I prepare for a Python de...",
+    "created_at": "2026-11-03T18:02:04.039974",
+    "updated_at": "2026-11-03T18:02:04.049999",
+    "messages": [
+      {
+        "id": "1110ac3b-1ad2-4362-9b95-d84e931dc48d",
+        "sender": "user",
+        "text": "How do I prepare for a Python developer interview?",
+        "timestamp": "2026-11-03T18:02:04.039974",
+        "citations": []
+      },
+      {
+        "id": "c0ccecaa-3570-473f-863a-744c5536c69e",
+        "sender": "ai",
+        "text": "Quick answer.",
+        "timestamp": "2026-11-03T18:02:04.049999",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "8c9c4a20-bc5b-4a2b-bafd-8678caf01050": {
+    "id": "8c9c4a20-bc5b-4a2b-bafd-8678caf01050",
+    "title": "New Career Chat",
+    "created_at": "2026-11-03T18:04:01.372064",
+    "updated_at": "2026-11-03T18:04:01.372064",
+    "messages": [],
+    "uploaded_document": null
+  },
+  "b4364fc7-9228-4165-b403-37b0d5cd7697": {
+    "id": "b4364fc7-9228-4165-b403-37b0d5cd7697",
+    "title": "what is python",
+    "created_at": "2026-11-03T18:05:54.514150",
+    "updated_at": "2026-11-03T18:08:44.287536",
+    "messages": [
+      {
+        "id": "bc3f18ff-eab6-4a3b-87db-c7c39d13328a",
+        "sender": "user",
+        "text": "what is python",
+        "timestamp": "2026-11-03T18:07:43.756906",
+        "citations": []
+      },
+      {
+        "id": "1b80133f-6d13-4143-9965-74d09e4580d9",
+        "sender": "ai",
+        "text": "Python is a high-level, interpreted programming language known for its clear syntax and readability. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. \n\nDue to its versatility and extensive ecosystem of libraries and frameworks, it is widely used in various technical domains such as:\n* **Data Science and Machine\n\nGemini is temporarily busy. Please try again shortly.",
+        "timestamp": "2026-11-03T18:07:46.546378",
+        "citations": []
+      },
+      {
+        "id": "9540b7bd-b281-48f5-9753-a6ba409a5978",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-03T18:08:15.664846",
+        "citations": []
+      },
+      {
+        "id": "f648230f-d70c-4536-871d-3d5a0fd4d3de",
+        "sender": "ai",
+        "text": "Machine learning is a subset of artificial intelligence (AI) focused on building applications that learn from data and improve their accuracy over time without being explicitly\n\nGemini is temporarily busy. Please try again shortly.",
+        "timestamp": "2026-11-03T18:08:44.287536",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "3a9eed19-f2ce-4831-9a28-193e5c8acfcf": {
+    "id": "3a9eed19-f2ce-4831-9a28-193e5c8acfcf",
+    "title": "what is PYTHON",
+    "created_at": "2026-11-03T18:10:33.503224",
+    "updated_at": "2026-11-03T18:11:18.391023",
+    "messages": [
+      {
+        "id": "404ad768-6d0f-40b6-baed-e397287b7784",
+        "sender": "user",
+        "text": "what is PYTHON",
+        "timestamp": "2026-11-03T18:10:47.990467",
+        "citations": []
+      },
+      {
+        "id": "8f4b825d-83ab-4e2a-8b23-a3ab458b95de",
+        "sender": "ai",
+        "text": "Gemini took too long to respond. Please try again.",
+        "timestamp": "2026-11-03T18:11:18.391023",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "d47df437-7fda-4b40-8037-e5f86fd0f3c5": {
+    "id": "d47df437-7fda-4b40-8037-e5f86fd0f3c5",
+    "title": "New Career Chat",
+    "created_at": "2026-11-03T18:11:11.477377",
+    "updated_at": "2026-11-03T18:11:11.477377",
+    "messages": [],
+    "uploaded_document": null
+  },
+  "120bf7f1-89ea-458f-bf5b-f7d952eeb183": {
+    "id": "120bf7f1-89ea-458f-bf5b-f7d952eeb183",
+    "title": "New Career Chat",
+    "created_at": "2026-11-03T18:12:40.887425",
+    "updated_at": "2026-11-03T18:12:40.887425",
+    "messages": [],
+    "uploaded_document": null
+  },
+  "7d64bd7f-f27e-4344-911f-c5e18b5b4a4b": {
+    "id": "7d64bd7f-f27e-4344-911f-c5e18b5b4a4b",
+    "title": "WHAT IS PYTHON",
+    "created_at": "2026-11-03T18:13:04.131741",
+    "updated_at": "2026-11-03T18:14:11.592306",
+    "messages": [
+      {
+        "id": "aaff8deb-cc3a-45bf-8ea1-fee72da38b25",
+        "sender": "user",
+        "text": "WHAT IS PYTHON",
+        "timestamp": "2026-11-03T18:13:14.827277",
+        "citations": []
+      },
+      {
+        "id": "be4f9d64-61c0-4a75-9c07-dbc5b4457cec",
+        "sender": "ai",
+        "text": "Python is a high-level, interpreted programming language known for its clear syntax and readability. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. \n\nBecause of its versatility and extensive ecosystem of libraries, Python is widely used in:\n* **Data Science & Machine Learning:** Libraries like Pandas, NumPy, Scikit-Learn, TensorFlow, and PyTorch make it the industry standard for data analysis and AI development.\n* **Web Development:** Frameworks like Django and Flask enable robust back-end development.\n* **Automation & Scripting:** It is frequently used to automate repetitive tasks, parse logs, and handle system administration.\n* **Software Testing:** It is heavily utilized for writing automated tests and quality assurance scripts.",
+        "timestamp": "2026-11-03T18:13:34.384482",
+        "citations": []
+      },
+      {
+        "id": "83d9739b-0586-413b-8366-d2aa92b78ca7",
+        "sender": "user",
+        "text": "MACHINE LEARNING",
+        "timestamp": "2026-11-03T18:14:11.592306",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "e7ab4e70-44fc-4da7-91d6-9e5d9f217f08": {
+    "id": "e7ab4e70-44fc-4da7-91d6-9e5d9f217f08",
+    "title": "WHAT IS MACHINE LEARNING",
+    "created_at": "2026-11-03T18:14:32.800449",
+    "updated_at": "2026-11-03T18:15:55.361580",
+    "messages": [
+      {
+        "id": "e7e14355-7651-42e1-9119-130ba402167f",
+        "sender": "user",
+        "text": "WHAT IS MACHINE LEARNING",
+        "timestamp": "2026-11-03T18:14:54.864468",
+        "citations": []
+      },
+      {
+        "id": "958713c8-7c3f-47aa-8c89-acf7a83b4026",
+        "sender": "user",
+        "text": "FULL STACK INTERVIEW QUESTIONS",
+        "timestamp": "2026-11-03T18:15:47.367269",
+        "citations": []
+      },
+      {
+        "id": "3ae89852-2f2b-4ead-90bf-4f94561302fc",
+        "sender": "ai",
+        "text": "Machine Learning (ML) Full Stack interviews evaluate your ability to design, build, deploy, and maintain end-to-end machine learning systems. Candidates are tested across data engineering, modeling, software engineering, and deployment (MLOps).\n\nHere is a breakdown of common ML Full Stack interview questions categorized by core domains:\n\n---\n\n### 1. Data Engineering & Pipeline Questions\n* **Data Processing at Scale:** How do you handle missing values, outliers, and high-cardinality categorical features in large datasets?\n* **ETL vs. ELT:** When would you choose an ETL pipeline over an ELT pipeline for a real-time recommendation engine?\n* **Data Drift:** How do you detect and handle concept drift and data drift in production pipelines?\n* **SQL/Streaming:** Write a query to compute a 7-day rolling average of user interactions, or explain how you would process streaming data using tools like Apache Kafka or Spark Streaming.\n\n---\n\n### 2. Machine Learning Algorithms &",
+        "timestamp": "2026-11-03T18:15:55.361580",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "3b9ff462-0165-4b93-9638-5472e29dbcce": {
+    "id": "3b9ff462-0165-4b93-9638-5472e29dbcce",
+    "title": "Hello",
+    "created_at": "2026-11-03T18:14:57.019387",
+    "updated_at": "2026-11-03T18:14:57.032204",
+    "messages": [
+      {
+        "id": "42130bd0-3bc0-47e3-b731-4821bca82f77",
+        "sender": "user",
+        "text": "Hello",
+        "timestamp": "2026-11-03T18:14:57.025453",
+        "citations": []
+      },
+      {
+        "id": "39e03004-ce9b-4f09-b07c-84c7f3727209",
+        "sender": "ai",
+        "text": "Hello! I'm CareerMate, your dedicated AI Career Guidance Assistant.\n\nI'm here to help you navigate your professional journey, education, and tech careers. Here are some ways we can work together:\n\n- Career Planning & Transitions: Explore pathways in AI, Data Science, Software Development, Cloud, or Cyber Security.\n- Resume & Portfolio Reviews: Upload your PDF resume or notes to get targeted feedback and ATS optimization tips.\n- Interview Preparation: Practice behavioral, technical, and coding interview strategies.\n- Skill & Certification Roadmaps: Discover the highest-impact skills, frameworks, and courses for your target roles.\n\nHow can I assist your career growth today?",
+        "timestamp": "2026-11-03T18:14:57.032204",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "55e47bb6-f8b4-41c5-84bd-8e8e9ef2afd5": {
+    "id": "55e47bb6-f8b4-41c5-84bd-8e8e9ef2afd5",
+    "title": "Who won the cricket match yester...",
+    "created_at": "2026-11-03T18:14:57.043268",
+    "updated_at": "2026-11-03T18:14:57.056731",
+    "messages": [
+      {
+        "id": "ca06adbc-6ce6-437c-982b-6b84d3322d34",
+        "sender": "user",
+        "text": "Who won the cricket match yesterday?",
+        "timestamp": "2026-11-03T18:14:57.052499",
+        "citations": []
+      },
+      {
+        "id": "d7e68033-1fc9-479b-99e1-758432c9b538",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T18:14:57.056731",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "0e253ac7-6b7c-4530-b862-85d8e130702a": {
+    "id": "0e253ac7-6b7c-4530-b862-85d8e130702a",
+    "title": "How do I prepare for a Python de...",
+    "created_at": "2026-11-03T18:14:57.070542",
+    "updated_at": "2026-11-03T18:14:57.096675",
+    "messages": [
+      {
+        "id": "7afff376-9349-41f9-9174-d76c70e4f4d8",
+        "sender": "user",
+        "text": "How do I prepare for a Python developer interview?",
+        "timestamp": "2026-11-03T18:14:57.077651",
+        "citations": []
+      },
+      {
+        "id": "f8edbdcd-4fb7-40f9-986b-9dd190dae291",
+        "sender": "ai",
+        "text": "complete fallback answer",
+        "timestamp": "2026-11-03T18:14:57.096675",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "b2f4f33b-3699-46da-b38b-c2acaf6250a4": {
+    "id": "b2f4f33b-3699-46da-b38b-c2acaf6250a4",
+    "title": "How can I improve my software en...",
+    "created_at": "2026-11-03T18:14:57.118965",
+    "updated_at": "2026-11-03T18:14:57.138605",
+    "messages": [
+      {
+        "id": "12bf8c90-abdf-4fef-8208-efe2c2b5d79c",
+        "sender": "user",
+        "text": "How can I improve my software engineering career?",
+        "timestamp": "2026-11-03T18:14:57.127392",
+        "citations": []
+      },
+      {
+        "id": "9912c6c3-fb2d-470f-b717-9b90b1647408",
+        "sender": "ai",
+        "text": "Gemini is rate-limited right now. Please wait a moment and try again.",
+        "timestamp": "2026-11-03T18:14:57.138605",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "ee33a472-c077-417d-a820-ec6f9941979e": {
+    "id": "ee33a472-c077-417d-a820-ec6f9941979e",
+    "title": "How do I prepare for a Python de...",
+    "created_at": "2026-11-03T18:14:57.143507",
+    "updated_at": "2026-11-03T18:14:57.164258",
+    "messages": [
+      {
+        "id": "66862510-c362-4030-a222-3094d94dfd99",
+        "sender": "user",
+        "text": "How do I prepare for a Python developer interview?",
+        "timestamp": "2026-11-03T18:14:57.153699",
+        "citations": []
+      },
+      {
+        "id": "e82e5d4e-c9d9-45f6-b5ff-3e91153a423f",
+        "sender": "ai",
+        "text": "## Quick\n\n**answer.**",
+        "timestamp": "2026-11-03T18:14:57.164258",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "90a14e60-89f2-47e2-8e3c-cc44e0d95fe9": {
+    "id": "90a14e60-89f2-47e2-8e3c-cc44e0d95fe9",
+    "title": "WHAT IS CLOUD",
+    "created_at": "2026-11-03T18:16:01.081048",
+    "updated_at": "2026-11-03T18:17:01.581302",
+    "messages": [
+      {
+        "id": "e9e6cc16-6ad4-4a95-badc-5d4fe8b6d696",
+        "sender": "user",
+        "text": "WHAT IS CLOUD",
+        "timestamp": "2026-11-03T18:16:32.928525",
+        "citations": []
+      },
+      {
+        "id": "b3eb12c3-e1e8-4aee-865e-bec53e037cb5",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T18:16:45.237977",
+        "citations": []
+      },
+      {
+        "id": "345b6f41-4a3d-4c6f-beaa-eba53c3800c0",
+        "sender": "user",
+        "text": "FULL STACK INTERVIEW QUESTIONS",
+        "timestamp": "2026-11-03T18:17:01.581302",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "fdb731ec-b0b6-4b19-8ef3-6f9d7476830d": {
+    "id": "fdb731ec-b0b6-4b19-8ef3-6f9d7476830d",
+    "title": "FULL STACK INTERVIEW QUESTIONS",
+    "created_at": "2026-11-03T18:18:17.423076",
+    "updated_at": "2026-11-03T18:22:34.057744",
+    "messages": [
+      {
+        "id": "3a1280e8-06d1-43ab-8dc6-89622f5369cf",
+        "sender": "user",
+        "text": "FULL STACK INTERVIEW QUESTIONS",
+        "timestamp": "2026-11-03T18:18:35.493507",
+        "citations": []
+      },
+      {
+        "id": "ba1af46b-eab6-4dce-84dd-d090d2e4111a",
+        "sender": "ai",
+        "text": "### Front-End\n\n*   **Explain the Virtual DOM in React.**\n    The Virtual DOM is a lightweight in-memory representation of the real DOM. When state changes, React updates the Virtual DOM first, compares it with a previous snapshot using a process called **diffing**, and then applies only the necessary minimum changes to the real DOM (reconciliation).\n*   **What is the difference between `let`, `const`, and `var` in JavaScript?**\n    *   `var`: Function-scoped, can be redeclared and updated, hoisted with an initial value of `undefined`.\n    *   `let`: Block-scoped, can be updated but not redeclared within the same scope, hoisted but not initialized (leads to the Temporal Dead Zone).\n    *   `const`: Block-scoped, cannot be updated or redeclared, must be initialized at declaration.\n*",
+        "timestamp": "2026-11-03T18:18:53.326229",
+        "citations": []
+      },
+      {
+        "id": "197ba698-fe79-4aa0-a79e-81d3dd08a7e6",
+        "sender": "user",
+        "text": "WHAT IS PYTHON",
+        "timestamp": "2026-11-03T18:19:10.717357",
+        "citations": []
+      },
+      {
+        "id": "d2ea179e-1128-45d6-bf45-5b15deee7938",
+        "sender": "ai",
+        "text": "Python is a high-level, interpreted programming language known for its clear syntax and readability. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. \n\nIt is widely used in various domains, most notably:\n* **Data Science & Machine Learning:** Libraries like NumPy, Pandas, Scikit-Learn, and TensorFlow make it the industry standard for data analysis and AI model development.\n* **Web Development:** Frameworks like Django and Flask enable robust backend development.\n* **Automation & Scripting:** Its concise syntax makes it ideal for automating repetitive tasks and writing utility scripts.",
+        "timestamp": "2026-11-03T18:19:15.254951",
+        "citations": []
+      },
+      {
+        "id": "4eb8b825-8a18-4b92-bc0d-a1201e243383",
+        "sender": "user",
+        "text": "WHAT IS MACHINE LEARNING",
+        "timestamp": "2026-11-03T18:19:35.215888",
+        "citations": []
+      },
+      {
+        "id": "804d95f3-0488-483a-ac78-f24c66916d44",
+        "sender": "ai",
+        "text": "Machine Learning (ML) is a subset of Artificial Intelligence (AI) that focuses on building systems that learn from data and improve their performance over time without being explicitly programmed. Instead of writing rule-based code to solve a problem, developers train algorithms on large datasets to recognize patterns and make predictions or decisions.\n\n### Key Types of Machine Learning\n\n* **Supervised Learning:** The algorithm is trained on labeled data (input-output pairs). It learns to map inputs to the correct outputs. \n  * *Example:* Predicting housing prices based on historical sales data.\n* **Unsupervised Learning:** The algorithm works with unlabeled data to find hidden structures, groupings, or patterns.\n  * *Example:* Customer segmentation for targeted marketing based on purchasing behavior.\n* **Reinforcement Learning:** An agent learns to make decisions by taking actions in an environment to achieve a goal, receiving rewards or penalties for its actions.\n  *",
+        "timestamp": "2026-11-03T18:19:43.661491",
+        "citations": []
+      },
+      {
+        "id": "79e0e992-3a3c-4d78-8ed3-9543e63b6a7c",
+        "sender": "user",
+        "text": "WHAT IS CLOUD ENGINEER",
+        "timestamp": "2026-11-03T18:20:19.570097",
+        "citations": []
+      },
+      {
+        "id": "0be92bd7-6285-4a78-bd88-33457abbc45f",
+        "sender": "ai",
+        "text": "A **Cloud Engineer** is an IT professional responsible for designing, implementing, managing, and securing cloud computing infrastructure and applications. They work with cloud service providers—such as Amazon Web Services (AWS), Microsoft Azure, or Google Cloud Platform (GCP)—to help organizations migrate their data and systems to the cloud, ensuring high availability, scalability, and security.\n\n### Core Responsibilities\n\n* **Cloud Architecture:** Designing and deploying scalable, reliable, and secure cloud environments.\n* **Migration:** Moving on-premises applications, databases, and infrastructure to the cloud.\n* **Automation & Infrastructure as Code (IaC):** Automating deployment processes using tools like Terraform, Ansible, or CloudFormation.\n* **Security & Compliance:** Implementing identity and access management (IAM), encryption, and network security policies.\n* **Monitoring & Troubleshooting:** Tracking system performance, managing resource utilization, and resolving operational issues.\n\n### Key Skills",
+        "timestamp": "2026-11-03T18:20:22.196521",
+        "citations": []
+      },
+      {
+        "id": "04f8075c-4394-42b1-b31c-b67b11d74715",
+        "sender": "user",
+        "text": "WHAT IS JAVASCIPT",
+        "timestamp": "2026-11-03T18:21:37.373808",
+        "citations": []
+      },
+      {
+        "id": "50960dc7-6786-4c0f-8953-23af982a3309",
+        "sender": "ai",
+        "text": "I'm CareerMate, your career guidance assistant. I can only answer questions related to careers, education, skills and professional development.",
+        "timestamp": "2026-11-03T18:21:37.392333",
+        "citations": []
+      },
+      {
+        "id": "e76c3d98-0449-4eb7-9f28-88301dcc5cde",
+        "sender": "user",
+        "text": "RESUME",
+        "timestamp": "2026-11-03T18:21:48.875600",
+        "citations": []
+      },
+      {
+        "id": "e9652a4e-c911-44fc-af83-f8acf0d711d7",
+        "sender": "ai",
+        "text": "A strong resume is a concise, well-structured document that highlights your professional experience, education, and skills relevant to your target career. \n\n### Key Sections of a Professional Resume\n\n*   **Contact Information:** Name, phone number, professional email address, and LinkedIn profile link.\n*   **Professional Summary:** A brief 2–3 sentence overview highlighting your core identity, years of experience, and key value proposition.\n*   **Skills:** A targeted list of technical tools, programming languages, methodologies, or soft skills relevant to the job.\n*   **Professional Experience:** Reverse-chronological list of past roles. Focus on quantifiable achievements and impact rather than just daily duties (e.g., *\"Increased system efficiency by 20% using Python\"*).\n*   **Education:** Degrees earned, institutions, and graduation years.\n\n### Best Practices\n\n*   **Tailoring:** Customize your resume for each",
+        "timestamp": "2026-11-03T18:21:55.194640",
+        "citations": []
+      },
+      {
+        "id": "e067bf9c-ec17-4169-8be7-dea2b3c2a377",
+        "sender": "user",
+        "text": "INTERVIEW QUESTIONS",
+        "timestamp": "2026-11-03T18:22:30.322042",
+        "citations": []
+      },
+      {
+        "id": "4955a8c0-297b-4712-b905-1f9d207db413",
+        "sender": "ai",
+        "text": "### Common Technical Interview Questions\n\n*   **Software Development:** \"Can you explain the difference between REST and GraphQL APIs?\"\n*   **Data Science / Machine Learning:** \"How do you handle missing values in a dataset?\" or \"Explain the concept of overfitting and how to prevent it.\"\n*   **Behavioral / Situational:** \"Tell me about a time when you faced a technical conflict within your team and how you resolved it.\"\n\n### The STAR Method for Behavioral Questions\n\nUse this structure to formulate concise and impactful answers:\n\n1.  **Situation:** Set the context for the challenge.\n2.  **Task:** Explain your responsibility or goal.\n3.  **Action:** Describe the specific steps you took to address the situation.\n4.  **Result:** Share the measurable outcomes or what you learned.",
+        "timestamp": "2026-11-03T18:22:34.057744",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "ce31c8b6-8f4f-475e-9716-2564ed90bea7": {
+    "id": "ce31c8b6-8f4f-475e-9716-2564ed90bea7",
+    "title": "what is machine learning",
+    "created_at": "2026-11-04T09:54:57.821998",
+    "updated_at": "2026-11-04T11:19:49.631876",
+    "messages": [
+      {
+        "id": "38e7bdff-dca3-479d-9311-aff4a2364db5",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-04T09:55:11.727082",
+        "citations": []
+      },
+      {
+        "id": "1417ee93-bda4-4e14-bc05-dfaa01f99fe7",
+        "sender": "ai",
+        "text": "Machine Learning is a subset of Artificial Intelligence (AI) that focuses on building applications which learn from data and improve their accuracy over time without being explicitly programmed to do so. \n\nInstead of writing rules-by-rule code to solve a specific problem, developers feed data into a generic algorithm and the algorithm builds its own logic based on the patterns found in that data.\n\n### Key Types of Machine Learning\n* **Supervised Learning:** The model is trained on labeled data (input and desired output). *Example: Spam filters that learn from emails marked as spam or not spam.*\n* **Unsupervised Learning:** The model looks for hidden patterns or intrinsic structures in unlabeled data. *Example: Customer segmentation for targeted marketing.*\n* **Reinforcement Learning:** The model learns to make a sequence of decisions by taking actions in an environment to achieve a goal, receiving rewards or penalties. *Example: Self-driving cars or game-",
+        "timestamp": "2026-11-04T09:55:14.848504",
+        "citations": []
+      },
+      {
+        "id": "4facb230-d069-4085-a72d-4f03eff385c1",
+        "sender": "ai",
+        "text": "📄 **Document Attached**: `CareerMate_Related_Questions.pdf`\n\n- **Pages Processed**: 1\n- **Knowledge Chunks Indexed**: 2\n\nYou can now ask questions specifically about this document, such as:\n- *'Summarize the key qualifications and technical skills in this document.'*\n- *'What areas of improvement do you suggest for this resume?'*\n- *'Generate 5 interview questions based on my background.'*",
+        "timestamp": "2026-11-04T10:54:29.182826",
+        "citations": []
+      },
+      {
+        "id": "c0ce2d9d-adda-462c-8051-1dac2f79d59e",
+        "sender": "ai",
+        "text": "Detached `CareerMate_Related_Questions.pdf`. Subsequent questions will use general career guidance knowledge.",
+        "timestamp": "2026-11-04T10:54:34.108065",
+        "citations": []
+      },
+      {
+        "id": "49639faf-251f-496a-8936-8d910362691b",
+        "sender": "ai",
+        "text": "📄 **Document Attached**: `CareerMate_Related_Questions.pdf`\n\n- **Pages Processed**: 1\n- **Knowledge Chunks Indexed**: 2\n\nYou can now ask questions specifically about this document, such as:\n- *'Summarize the key qualifications and technical skills in this document.'*\n- *'What areas of improvement do you suggest for this resume?'*\n- *'Generate 5 interview questions based on my background.'*",
+        "timestamp": "2026-11-04T10:55:00.739685",
+        "citations": []
+      },
+      {
+        "id": "aa1ba971-4e0a-4d69-bb2b-ccf373d5f9e5",
+        "sender": "ai",
+        "text": "Detached `CareerMate_Related_Questions.pdf`. Subsequent questions will use general career guidance knowledge.",
+        "timestamp": "2026-11-04T10:55:11.008571",
+        "citations": []
+      },
+      {
+        "id": "6db4b18f-e271-4ae5-90ee-7c5a3716fc32",
+        "sender": "user",
+        "text": "What is the difference between frontend and backend?",
+        "timestamp": "2026-11-04T11:18:41.432439",
+        "citations": []
+      },
+      {
+        "id": "c26550d2-b0e8-4259-a6cc-23f71da3c2bb",
+        "sender": "ai",
+        "text": "The difference between frontend and backend development lies in what parts of an application users interact with versus how the application works behind the scenes.\n\n### **Frontend Development**\n* **What it is:** Often called \"client-side\" development, it encompasses everything that users visually see and interact with in their web browser or mobile app.\n* **Core Technologies:** HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js.\n* **Primary Focus:** User experience (UX), responsive design, layout, accessibility, and ensuring the interface is intuitive and fast.\n\n### **Backend Development**\n* **What it is:** Often called \"server-side\" development, it handles the hidden logic, database management, user authentication, and server configuration that powers the frontend.\n* **Core Technologies:** Programming languages like Python, Java, Node.js, Ruby, or Go, along with databases such as PostgreSQL,",
+        "timestamp": "2026-11-04T11:18:42.858650",
+        "citations": []
+      },
+      {
+        "id": "2baf78a9-2baa-4911-a9ec-c1feaf9d6f7d",
+        "sender": "user",
+        "text": "What is Artificial Intelligence?",
+        "timestamp": "2026-11-04T11:19:48.275240",
+        "citations": []
+      },
+      {
+        "id": "e4a9045e-9b02-4adf-a559-71401b82b524",
+        "sender": "ai",
+        "text": "Artificial Intelligence (AI) is a branch of computer science focused on creating systems and machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, language understanding, and decision-making.\n\n### **Core Components of AI**\n* **Machine Learning (ML):** A subset of AI where algorithms are trained on large datasets to recognize patterns and make predictions without being explicitly programmed for every scenario.\n* **Deep Learning:** An advanced subfield of machine learning inspired by the human brain, utilizing multi-layered neural networks to process complex data like images, audio, and natural language.\n* **Natural Language Processing (NLP):** Enables computers to understand, interpret, and generate human language (e.g., chatbots, translation tools).\n* **Computer Vision:** Allows machines to interpret and make decisions based on visual data from the world, such as images and video.",
+        "timestamp": "2026-11-04T11:19:49.631876",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "37747572-6f84-4ca6-b9fa-b0894bcc4013": {
+    "id": "37747572-6f84-4ca6-b9fa-b0894bcc4013",
+    "title": "What are the essential skills an...",
+    "created_at": "2026-11-04T09:55:38.131276",
+    "updated_at": "2026-11-04T09:56:36.049266",
+    "messages": [
+      {
+        "id": "0a424fc6-605b-4748-8a5b-74d3856517f0",
+        "sender": "user",
+        "text": "What are the essential skills and portfolio projects for a Data Scientist in 2026?",
+        "timestamp": "2026-11-04T09:55:44.652380",
+        "citations": []
+      },
+      {
+        "id": "5054eacd-7018-4347-9d9d-03a511d232b1",
+        "sender": "ai",
+        "text": "### Essential Skills for a Data Scientist in 2026\n\nTo remain competitive in 2026, a Data Scientist must blend traditional statistical rigor with advanced engineering and generative AI capabilities. \n\n*   **Core Programming & Data Manipulation:**\n    *   **Python & SQL:** Advanced proficiency remains mandatory for data extraction, manipulation, and scripting.\n    *   **Polars / DuckDB:** High-performance alternatives to Pandas for handling massive datasets efficiently.\n*   **Machine Learning & Advanced AI:**\n    *   **Foundational ML:** Supervised and unsupervised learning, regression, classification, and ensemble methods (XGBoost, LightGBM).\n    *   **Generative AI & LLMs:** Fine-tuning open-source models (e.g., Llama, Mistral), Retrieval-Augmented Generation (RAG) architecture, and prompt engineering.\n    *   **Vector",
+        "timestamp": "2026-11-04T09:55:46.043148",
+        "citations": []
+      },
+      {
+        "id": "7ed53317-db64-48f5-ba03-3ec870d55d83",
+        "sender": "user",
+        "text": "what is machine learning",
+        "timestamp": "2026-11-04T09:56:34.407957",
+        "citations": []
+      },
+      {
+        "id": "5d458c29-a29f-476e-8444-1b0ca0ca6956",
+        "sender": "ai",
+        "text": "Machine Learning (ML) is a branch of Artificial Intelligence (AI) and computer science that focuses on using data and algorithms to enable AI to imitate the way humans learn, gradually improving its accuracy. \n\nInstead of writing explicit rules in code to solve a problem, developers train algorithms on large datasets to recognize patterns, make predictions, or make decisions autonomously.\n\n### Core Types of Machine Learning\n\n*   **Supervised Learning:** The algorithm is trained on labeled data (input data paired with the correct output). It learns the mapping function to predict outputs for unseen data. \n    *   *Examples:* Spam detection (classifying emails as spam or not), house price prediction (regression).\n*   **Unsupervised Learning:** The algorithm is given unlabeled data and must find structure, patterns, or groupings within it on its own.\n    *   *Examples:* Customer segmentation in marketing, anomaly detection for fraud.\n*",
+        "timestamp": "2026-11-04T09:56:36.049266",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "e0ec683d-0098-422c-ab37-d0d5394e47f3": {
+    "id": "e0ec683d-0098-422c-ab37-d0d5394e47f3",
+    "title": "RESUME TEMPLATES",
+    "created_at": "2026-11-04T10:44:31.627501",
+    "updated_at": "2026-11-04T10:48:52.055181",
+    "messages": [
+      {
+        "id": "368a8156-2db2-4de5-b9f5-c8a74f7d2257",
+        "sender": "user",
+        "text": "RESUME TEMPLATES",
+        "timestamp": "2026-11-04T10:46:13.565359",
+        "citations": []
+      },
+      {
+        "id": "087a0298-dd70-4d3e-8665-f8c5cfde288e",
+        "sender": "ai",
+        "text": "A strong resume template should be clean, professional, and ATS-friendly (Applicant Tracking System compatible). Here is a standard structure and a recommended format for a tech and professional career resume.\n\n### Recommended Resume Structure\n\n1. **Header**\n   * Full Name\n   * Professional Title (e.g., Data Scientist | Software Engineer)\n   * Phone Number | Professional Email | LinkedIn Profile | GitHub/Portfolio Link\n   * Location (City, State/Country or \"Remote\")\n\n2. **Professional Summary**\n   * A concise 2–3 sentence overview highlighting your total years of experience, core technical/domain skills, and primary value proposition.\n\n3. **Technical Skills / Core Competencies**\n   * **Programming Languages:** Python, SQL, JavaScript, etc.\n   * **Frameworks & Libraries:** React, TensorFlow, Pandas, etc.\n   * **Tools & Platforms:** Git,",
+        "timestamp": "2026-11-04T10:46:21.705195",
+        "citations": []
+      },
+      {
+        "id": "1af1fe92-73aa-45d8-b7c2-1bb6c8afdb73",
+        "sender": "user",
+        "text": "HOW TO CRACK INTERVIEW QUESTIONS IN PYTHON",
+        "timestamp": "2026-11-04T10:47:01.156605",
+        "citations": []
+      },
+      {
+        "id": "bfe4ab4f-0f1e-445b-9763-f0cbf8ba6065",
+        "sender": "ai",
+        "text": "To successfully crack Python interview questions, focus on mastering fundamental data structures, built-in libraries, and common algorithmic patterns. \n\n### 1. Master Core Python Concepts\n* **Data Structures:** Understand time and space complexities for lists, dictionaries, sets, and tuples. Know when to use each (e.g., $O(1)$ average time complexity for dictionary lookups).\n* **Memory Management & Mutability:** Understand the difference between mutable objects (lists, dicts) and immutable objects (strings, tuples, ints) and how they are passed to functions.\n* **Comprehensions & Generators:** Use list/dict comprehensions for clean code, and generators (`yield`) for memory-efficient iteration over large datasets.\n\n### 2. Practice Common Coding Patterns\n* **Two Pointers & Sliding Window:** Frequently used for array and string manipulation problems.\n* **Hash Maps:** Essential for counting",
+        "timestamp": "2026-11-04T10:47:02.908224",
+        "citations": []
+      },
+      {
+        "id": "b8177346-6781-4b2b-a527-c7ac496079bf",
+        "sender": "user",
+        "text": "HOW TO CRACK INTERVIEWS",
+        "timestamp": "2026-11-04T10:47:45.684612",
+        "citations": []
+      },
+      {
+        "id": "fa8de369-bcec-402e-acf3-d9321a694614",
+        "sender": "ai",
+        "text": "Cracking professional interviews requires a structured approach across preparation, execution, and follow-up.\n\n### 1. Technical Preparation\n* **Master the Fundamentals:** Solidify core concepts relevant to your specific domain (e.g., data structures for software engineering, algorithms for machine learning, or statistical methods for data science).\n* **Problem-Solving Practice:** Regularly solve coding or case-study problems on platforms like LeetCode, HackerRank, or domain-specific practice sites. Focus on explaining your thought process out loud.\n* **System Design:** For mid-to-senior roles, practice designing scalable systems, discussing trade-offs, and understanding architecture patterns.\n\n### 2. Behavioral Preparation\n* **The STAR Method:** Structure your behavioral answers using **Situation, Task, Action, and Result**. Prepare 5 to 6 versatile stories from your past experience covering conflict resolution, leadership, failure, and success.",
+        "timestamp": "2026-11-04T10:47:47.316639",
+        "citations": []
+      },
+      {
+        "id": "0d3a51e3-f38b-4349-8b4f-70f9855e6f0a",
+        "sender": "user",
+        "text": "WHAT ARE THE BASIC SKILLS REQUIRED TO FULL STACK DEVELOPER",
+        "timestamp": "2026-11-04T10:48:50.355203",
+        "citations": []
+      },
+      {
+        "id": "36a05ba4-4be0-4c65-934d-89271e0c0b72",
+        "sender": "ai",
+        "text": "To become a Full Stack Developer, you need a combination of frontend, backend, and foundational technical skills:\n\n### 1. Frontend Development (Client-Side)\n* **HTML5 & CSS3:** The foundation of web structure and styling, including modern layouts like Flexbox and Grid.\n* **JavaScript (ES6+):** Essential for adding interactivity and logic to web pages.\n* **Frontend Frameworks:** Proficiency in at least one modern framework such as **React.js**, **Angular**, or **Vue.js**.\n\n### 2. Backend Development (Server-Side)\n* **Programming Languages:** Proficiency in backend languages like **Node.js (JavaScript)**, **Python**, **Java**, or **Ruby**.\n* **Frameworks:** Experience with backend frameworks such as Express.js (for Node), Django or Flask (for Python), or Spring Boot (for Java).\n* **APIs",
+        "timestamp": "2026-11-04T10:48:52.055181",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "2aaa390e-6085-436e-a4c3-8a353ffd53b6": {
+    "id": "2aaa390e-6085-436e-a4c3-8a353ffd53b6",
+    "title": "New Career Chat",
+    "created_at": "2026-11-04T11:31:45.124101",
+    "updated_at": "2026-11-04T11:31:45.124101",
+    "messages": [],
+    "uploaded_document": null
+  },
+  "3a04651e-4935-4f0c-9d46-90bd189d15e4": {
+    "id": "3a04651e-4935-4f0c-9d46-90bd189d15e4",
+    "title": "differnce bettween frontend and ...",
+    "created_at": "2026-11-11T09:35:54.598450",
+    "updated_at": "2026-11-11T09:36:20.133173",
+    "messages": [
+      {
+        "id": "97619f4e-578b-4f3d-9160-ce34c746054d",
+        "sender": "user",
+        "text": "differnce bettween frontend and backend",
+        "timestamp": "2026-11-11T09:36:16.552016",
+        "citations": []
+      },
+      {
+        "id": "a5b638af-6933-4390-858e-d6ebcac93bef",
+        "sender": "ai",
+        "text": "**Frontend** and **backend** are the two primary layers of web development. Together, they make up a complete application or website.\n\n### Frontend (Client-Side)\n* **Definition:** The part of a website or application that users directly see and interact with in their web browser.\n* **Focus:** User experience (UX), visual design, responsiveness, and accessibility.\n* **Common Technologies:** HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js.\n* **Example:** The buttons, menus, text, images, and contact forms you interact with on a webpage.\n\n### Backend (Server-Side)\n* **Definition:** The behind-the-scenes engine of an application that users never see. It processes requests, manages business logic, and interacts with databases.\n* **Focus:** Data storage, security, server performance, and API communication.\n* **Common Technologies",
+        "timestamp": "2026-11-11T09:36:20.133173",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "aa5f84de-1cd2-46bd-92b2-48a36c9fe5fd": {
+    "id": "aa5f84de-1cd2-46bd-92b2-48a36c9fe5fd",
+    "title": "how to crack interview process",
+    "created_at": "2026-11-11T09:47:36.725682",
+    "updated_at": "2026-11-11T09:56:46.133164",
+    "messages": [
+      {
+        "id": "27e3a043-6893-4206-807a-24bb322d91a2",
+        "sender": "user",
+        "text": "how to crack interview process",
+        "timestamp": "2026-11-11T09:56:43.192492",
+        "citations": []
+      },
+      {
+        "id": "168e29d9-cc20-40f2-8bfe-b5e5b28451f5",
+        "sender": "ai",
+        "text": "Cracking a professional interview requires a structured approach across preparation, execution, and follow-up. \n\n### 1. Preparation (Before the Interview)\n* **Analyze the Job Description:** Map your skills and experiences directly to the key requirements and technologies listed in the role.\n* **Research the Company:** Understand their products, business model, recent news, and company culture.\n* **Master the Basics:** Review fundamental concepts related to your domain (e.g., Data Science, Software Engineering) and be ready to explain past projects in depth.\n* **Practice Common Questions:** Prepare concise answers for behavioral questions using the **STAR method** (Situation, Task, Action, Result).\n\n### 2. Execution (During the Interview)\n* **Clarify Questions:** For technical or case-study questions, repeat the prompt and ask clarifying constraints before jumping into a solution.\n* **Think Out Loud:** Walk the",
+        "timestamp": "2026-11-11T09:56:46.133164",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  },
+  "4ed419e5-7a92-44a2-9906-131579a34aae": {
+    "id": "4ed419e5-7a92-44a2-9906-131579a34aae",
+    "title": "master the star  interview techn...",
+    "created_at": "2026-11-11T09:57:18.352273",
+    "updated_at": "2026-11-11T09:57:56.444341",
+    "messages": [
+      {
+        "id": "459ebf10-3e4a-4aec-a326-51fc429089b4",
+        "sender": "user",
+        "text": "master the star  interview technique",
+        "timestamp": "2026-11-11T09:57:47.257837",
+        "citations": []
+      },
+      {
+        "id": "007ddbd1-eddd-4166-ba23-a3160b07be83",
+        "sender": "ai",
+        "text": "Mastering the STAR method (Situation, Task, Action, Result) is essential for answering behavioral interview questions effectively. \n\n### The STAR Framework\n\n*   **Situation:** Set the scene and provide necessary context. Describe the background, where you were working, and when it happened. Keep it brief and relevant.\n*   **Task:** Explain the specific challenge, problem, or goal you were facing. What were your responsibilities in that situation?\n*   **Action:** Detail the concrete steps **you** took to address the challenge. Focus on your individual contribution, skills used, and problem-solving process (use \"I,\" not just \"we\").\n*   **Result:** Share the outcome of your actions. Whenever possible, use quantifiable metrics (e.g., \"increased efficiency by 20%,\" \"reduced bug backlog by half\") and mention what you learned.\n\n---\n\n### Step-by-",
+        "timestamp": "2026-11-11T09:57:56.444341",
+        "citations": []
+      }
+    ],
+    "uploaded_document": null
+  }
+}

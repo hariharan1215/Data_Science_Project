@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CareerMate – AI-Powered Career Guidance Chatbot</title>
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>">
+  
+  <!-- Google Fonts: Inter & Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  
+  <!-- Highlight.js for Code Highlighting -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/atom-one-dark.min.css">
+  
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="brand">
+          <div class="brand-icon">
+            <i class="fa-solid fa-graduation-cap"></i>
+          </div>
+          <div class="brand-text">
+            <h2>CareerMate</h2>
+            <span>AI Career Navigator</span>
+          </div>
+        </div>
+        <button class="icon-btn mobile-close-btn" id="closeSidebarBtn" title="Close Sidebar">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <div class="sidebar-actions">
+        <button class="btn btn-primary new-chat-btn" id="newChatBtn">
+          <i class="fa-solid fa-plus"></i>
+          <span>New Conversation</span>
+        </button>
+      </div>
+
+      <!-- Active Document Section -->
+      <div class="sidebar-section active-doc-section" id="activeDocSection" style="display: none;">
+        <div class="section-label">
+          <i class="fa-solid fa-file-pdf"></i>
+          <span>Active RAG Document</span>
+        </div>
+        <div class="active-doc-card">
+          <div class="doc-icon"><i class="fa-solid fa-file-lines"></i></div>
+          <div class="doc-details">
+            <span class="doc-name" id="sidebarDocName">resume.pdf</span>
+            <span class="doc-status"><i class="fa-solid fa-circle-check"></i> Indexed for QA</span>
+          </div>
+          <button class="detach-doc-btn" id="detachDocBtn" title="Detach document">
+            <i class="fa-solid fa-xmark"></i>
+          </button>
+        </div>
+      </div>
+
+      <!-- Chat History List -->
+      <div class="sidebar-section history-section">
+        <div class="section-label">
+          <i class="fa-solid fa-clock-rotate-left"></i>
+          <span>Chat History</span>
+        </div>
+        <div class="history-list" id="historyList">
+          <!-- Session items dynamically injected -->
+          <div class="history-empty">
+            <i class="fa-regular fa-comments"></i>
+            <p>No previous conversations</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sidebar Footer -->
+      <div class="sidebar-footer">
+        <button class="sidebar-footer-btn" id="clearCurrentChatBtn" title="Clear current chat messages">
+          <i class="fa-solid fa-trash-can"></i>
+          <span>Clear Chat</span>
+        </button>
+        <button class="sidebar-footer-btn" id="openSettingsBtn" title="Settings & Gemini API Key">
+          <i class="fa-solid fa-gear"></i>
+          <span>API Key & Settings</span>
+        </button>
+      </div>
+    </aside>
+
+    <!-- Sidebar Backdrop for Mobile -->
+    <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+
+    <!-- Main Chat Workspace -->
+    <main class="main-content">
+      <!-- Top Navigation Bar -->
+      <header class="top-nav">
+        <div class="top-nav-left">
+          <button class="icon-btn mobile-menu-btn" id="openSidebarBtn" title="Open Sidebar">
+            <i class="fa-solid fa-bars"></i>
+          </button>
+          <div class="chat-title-wrapper">
+            <h1 class="chat-title" id="currentChatTitle">New Career Chat</h1>
+            <span class="chat-badge" id="modelBadge">
+              <i class="fa-solid fa-sparkles"></i> Gemini AI
+            </span>
+          </div>
+        </div>
+
+        <div class="top-nav-right">
+          <!-- Upload PDF Trigger -->
+          <button class="btn btn-secondary upload-pdf-top-btn" id="openUploadModalBtn">
+            <i class="fa-solid fa-file-arrow-up"></i>
+            <span class="btn-text">Upload PDF</span>
+          </button>
+
+          <!-- Status Indicator -->
+          <div class="status-indicator" id="apiStatusBadge" title="System Status">
+            <span class="status-dot"></span>
+            <span class="status-text">Ready</span>
+          </div>
+        </div>
+      </header>
+
+      <!-- Active PDF Notification Bar -->
+      <div class="pdf-context-bar" id="pdfContextBar" style="display: none;">
+        <div class="context-info">
+          <i class="fa-solid fa-file-pdf"></i>
+          <span>RAG Active: Answers will reference <strong><span id="contextBarDocName">document.pdf</span></strong></span>
+        </div>
+        <button class="text-btn remove-context-btn" id="contextBarRemoveBtn">
+          <i class="fa-solid fa-times"></i> Detach Document
+        </button>
+      </div>
+
+      <!-- Chat Messages Container -->
+      <div class="chat-container" id="chatContainer">
+        <!-- Welcome Screen (Visible when chat is empty) -->
+        <div class="welcome-screen" id="welcomeScreen">
+          <div class="welcome-avatar">
+            <div class="avatar-glow"></div>
+            <i class="fa-solid fa-robot"></i>
+          </div>
+          <h2 class="welcome-title">Welcome to CareerMate</h2>
+          <p class="welcome-subtitle">
+            Your personal AI counselor for career guidance, technical skills, resume building,
+            interviews, and transitions into Data Science, AI, and IT.
+          </p>
+
+          <div class="domain-scope-box">
+            <div class="scope-header">
+              <i class="fa-solid fa-shield-halved"></i>
+              <span>Career-Focused Assistant</span>
+            </div>
+            <p>
+              CareerMate is exclusively trained for career, education, and professional development questions.
+              You can also upload your <strong>Resume, Job Description, or Syllabus PDF</strong> to receive personalized RAG-powered guidance!
+            </p>
+          </div>
+
+          <!-- Suggested Starter Prompts -->
+          <div class="suggestions-container">
+            <span class="suggestions-label">Explore popular questions:</span>
+            <div class="suggestions-grid">
+              <button class="suggestion-chip" data-prompt="How do I transition from Software Development into AI and Machine Learning?">
+                <i class="fa-solid fa-brain"></i>
+                <span>Transition into AI & Machine Learning</span>
+              </button>
+              <button class="suggestion-chip" data-prompt="What are the essential skills and portfolio projects for a Data Scientist in 2026?">
+                <i class="fa-solid fa-chart-line"></i>
+                <span>Data Science roadmap & projects</span>
+              </button>
+              <button class="suggestion-chip" data-prompt="How should I prepare for a Senior Full-Stack Developer technical interview?">
+                <i class="fa-solid fa-laptop-code"></i>
+                <span>Full-Stack interview preparation</span>
+              </button>
+              <button class="suggestion-chip" data-prompt="What are the best strategies to optimize my resume for ATS filters?">
+                <i class="fa-solid fa-file-invoice"></i>
+                <span>Optimize resume for ATS screening</span>
+              </button>
+              <button class="suggestion-chip" data-prompt="Explain the STAR method for answering behavioral interview questions with examples.">
+                <i class="fa-solid fa-comments"></i>
+                <span>Master the STAR interview technique</span>
+              </button>
+              <button class="suggestion-chip" data-prompt="What certifications are most valuable for a Cloud / DevOps career path?">
+                <i class="fa-solid fa-cloud"></i>
+                <span>Top Cloud & DevOps certifications</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Chat Messages Stream -->
+        <div class="messages-stream" id="messagesStream"></div>
+
+        <!-- Typing / Loading Animation -->
+        <div class="typing-indicator" id="typingIndicator" style="display: none;">
+          <div class="typing-avatar">
+            <i class="fa-solid fa-robot"></i>
+          </div>
+          <div class="typing-bubble">
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <div class="dot"></div>
+            <span class="typing-text">CareerMate is thinking...</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Chat Input Area -->
+      <footer class="chat-input-area">
+        <!-- Attached File Preview Badge (Above Input) -->
+        <div class="input-attached-doc" id="inputAttachedDoc" style="display: none;">
+          <i class="fa-solid fa-file-pdf"></i>
+          <span class="attached-name" id="attachedFileName">document.pdf</span>
+          <button type="button" class="remove-attachment-btn" id="removeAttachmentBtn" title="Remove PDF">
+            <i class="fa-solid fa-xmark"></i>
+          </button>
+        </div>
+
+        <form class="chat-input-form" id="chatForm">
+          <!-- Upload PDF Quick Button -->
+          <button type="button" class="action-btn file-trigger-btn" id="inputUploadBtn" title="Upload Career PDF (Resume, JD, Notes)">
+            <i class="fa-solid fa-paperclip"></i>
+          </button>
+
+          <!-- Textarea / Input -->
+          <textarea
+            id="messageInput"
+            class="message-textarea"
+            placeholder="Ask anything about careers, skills, resumes, interviews, or upload a PDF..."
+            rows="1"
+            autocomplete="off"
+          ></textarea>
+
+          <!-- Send Button -->
+          <button type="submit" class="send-btn" id="sendBtn" title="Send message" disabled>
+            <i class="fa-solid fa-arrow-up"></i>
+          </button>
+        </form>
+
+        <div class="input-disclaimer">
+          <span>CareerMate strictly answers career, education, and skill questions. Context provided by PDFs is grounded via RAG.</span>
+        </div>
+      </footer>
+    </main>
+  </div>
+
+  <!-- PDF Upload Modal -->
+  <div class="modal-overlay" id="uploadModal" style="display: none;">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div class="modal-title">
+          <i class="fa-solid fa-cloud-arrow-up"></i>
+          <h3>Upload Career Document (PDF)</h3>
+        </div>
+        <button class="icon-btn modal-close-btn" id="closeUploadModalBtn">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <div class="modal-body">
+        <p class="modal-desc">
+          Upload your resume, curriculum, job description, or study guide. CareerMate will extract text via
+          <strong>PyMuPDF</strong>, generate <strong>Gemini vector embeddings</strong>, and index it into <strong>ChromaDB</strong>.
+        </p>
+
+        <!-- Drag & Drop Zone -->
+        <div class="drop-zone" id="dropZone">
+          <input type="file" id="pdfFileInput" accept="application/pdf" style="display: none;">
+          <div class="drop-zone-content">
+            <div class="drop-icon">
+              <i class="fa-solid fa-file-arrow-up"></i>
+            </div>
+            <h4>Drag & drop your PDF here</h4>
+            <p>or <button type="button" class="browse-link" id="browsePdfBtn">browse from device</button></p>
+            <span class="file-limits">Supported: Text-based PDF (Max 16 MB)</span>
+          </div>
+          <!-- Selected File Preview -->
+          <div class="selected-file-preview" id="selectedFilePreview" style="display: none;">
+            <i class="fa-solid fa-file-pdf"></i>
+            <div class="preview-meta">
+              <span class="preview-filename" id="previewFilename">resume.pdf</span>
+              <span class="preview-filesize" id="previewFilesize">1.2 MB</span>
+            </div>
+            <button type="button" class="remove-selected-btn" id="removeSelectedFileBtn">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+          </div>
+        </div>
+
+        <!-- Upload Progress & Status -->
+        <div class="upload-progress-box" id="uploadProgressBox" style="display: none;">
+          <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+          </div>
+          <span class="progress-status" id="progressStatus">Uploading & processing document...</span>
+        </div>
+
+        <div class="modal-alert modal-error" id="uploadErrorAlert" style="display: none;">
+          <i class="fa-solid fa-triangle-exclamation"></i>
+          <span id="uploadErrorText">Error message</span>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" id="cancelUploadBtn">Cancel</button>
+        <button type="button" class="btn btn-primary" id="confirmUploadBtn" disabled>
+          <i class="fa-solid fa-upload"></i> Upload & Index
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- API Key & Settings Modal -->
+  <div class="modal-overlay" id="settingsModal" style="display: none;">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div class="modal-title">
+          <i class="fa-solid fa-key"></i>
+          <h3>CareerMate Configuration</h3>
+        </div>
+        <button class="icon-btn modal-close-btn" id="closeSettingsModalBtn">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <div class="modal-body">
+        <p class="modal-desc">
+          Configure your Google Gemini API key. Your key is stored securely in environment variables on your server.
+        </p>
+
+        <div class="form-group">
+          <label for="geminiApiKeyInput">Google Gemini API Key</label>
+          <div class="input-with-icon">
+            <i class="fa-solid fa-key"></i>
+            <input
+              type="password"
+              id="geminiApiKeyInput"
+              class="form-control"
+              placeholder="AIzaSy..."
+            />
+            <button type="button" class="toggle-password-btn" id="toggleKeyVisibilityBtn">
+              <i class="fa-solid fa-eye"></i>
+            </button>
+          </div>
+          <span class="form-hint">
+            Get your free API key at <a href="https://aistudio.google.com/" target="_blank" rel="noopener">Google AI Studio</a>.
+          </span>
+        </div>
+
+        <div class="modal-alert modal-success" id="settingsSuccessAlert" style="display: none;">
+          <i class="fa-solid fa-circle-check"></i>
+          <span id="settingsSuccessText">Settings updated successfully!</span>
+        </div>
+
+        <div class="modal-alert modal-error" id="settingsErrorAlert" style="display: none;">
+          <i class="fa-solid fa-triangle-exclamation"></i>
+          <span id="settingsErrorText">Error updating settings.</span>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" id="cancelSettingsBtn">Close</button>
+        <button type="button" class="btn btn-primary" id="saveSettingsBtn">
+          <i class="fa-solid fa-floppy-disk"></i> Save Key
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Markdown parser and HTML sanitizer -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@15.0.7/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.6/dist/purify.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+  <!-- Client Application Script -->
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
